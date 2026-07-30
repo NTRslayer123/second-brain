@@ -15,19 +15,23 @@ from pathlib import Path
 
 # Optional third-party imports with fallback handling
 try:
-    import trafilatura  # type: ignore # pyrefly: ignore [missing-import]
+    # pyrefly: ignore [missing-import]
+    import trafilatura  # type: ignore
 except ImportError:
     trafilatura = None
 
 try:
-    import requests  # type: ignore # pyrefly: ignore [missing-import]
-    from bs4 import BeautifulSoup  # type: ignore # pyrefly: ignore [missing-import]
+    # pyrefly: ignore [missing-import]
+    import requests  # type: ignore
+    # pyrefly: ignore [missing-import]
+    from bs4 import BeautifulSoup  # type: ignore
 except ImportError:
     requests = None
     BeautifulSoup = None
 
 try:
-    from pypdf import PdfReader  # type: ignore # pyrefly: ignore [missing-import]
+    # pyrefly: ignore [missing-import]
+    from pypdf import PdfReader  # type: ignore
 except ImportError:
     PdfReader = None
 
