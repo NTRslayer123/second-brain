@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets
+.env
+*.pem
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local Vector Cache & Temporary Storage
+embeddings.npy
+*.tmp
+.ds_store
+Thumbs.db
+
+# Streamlit Local Cache & Credentials
+.streamlit/secrets.toml

@@ -1,0 +1,1 @@
+Testing note capture with dual file storage architecture

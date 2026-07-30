@@ -1,0 +1,1 @@
+Test plain text note capture

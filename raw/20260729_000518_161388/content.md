@@ -1,0 +1,1 @@
+Resource: Groq API documentation for Llama 3.1 8B Instant fast inference with structured JSON output.

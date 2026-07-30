@@ -1,0 +1,1 @@
+Project Plan for SecondSelf: Build capture, PARA classification, dense vector auto-linking, PyVis graph, and RAG Q&A.

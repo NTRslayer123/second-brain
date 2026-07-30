@@ -1,0 +1,10 @@
+{
+  "id": "20260729_002306_7e24d5",
+  "timestamp": "2026-07-29T00:23:06.210498+00:00",
+  "type": "note",
+  "source": "Verification test note from Command Prompt",
+  "title": "Verification test note from Command Prompt",
+  "char_count": 42,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}

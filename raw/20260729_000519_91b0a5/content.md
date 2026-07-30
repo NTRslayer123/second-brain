@@ -1,0 +1,1 @@
+Area: Financial Planning — Monthly budget allocation for cloud hosting, domain renewals, and AI API credits.

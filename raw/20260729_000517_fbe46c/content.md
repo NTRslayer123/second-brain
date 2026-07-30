@@ -1,0 +1,1 @@
+Resource: Python sentence-transformers documentation for calculating document vector embeddings using all-MiniLM-L6-v2.
