@@ -22,3 +22,7 @@ Thumbs.db
 
 # Streamlit Local Cache & Credentials
 .streamlit/secrets.toml
+
+# Agent Rules & Local Config
+.agents/
+
