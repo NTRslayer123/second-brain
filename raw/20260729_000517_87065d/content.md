@@ -1,1 +1,0 @@
-Key Area: Personal Health & Fitness — Weekly 3x strength training, 10k daily steps, hydration tracking.

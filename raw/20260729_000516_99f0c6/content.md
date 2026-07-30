@@ -1,1 +1,0 @@
-Remember to review the microservices design patterns article on Martin Fowler site.

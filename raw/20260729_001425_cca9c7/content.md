@@ -1,1 +1,0 @@
-Reviewing systemic architecture for SecondSelf AI brain

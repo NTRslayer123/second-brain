@@ -202,7 +202,7 @@ def capture(input_str: str, source_type: str = "auto") -> dict:
         first_line = cleaned_input.split("\n")[0].strip()
         title = first_line[:60] if len(first_line) > 60 else first_line
 
-    # Create dedicated subfolder in raw/{capture_id}/
+    # Save dedicated subfolder raw/{capture_id}/ containing content.md and metadata.json
     capture_dir = RAW_DIR / capture_id
     capture_dir.mkdir(parents=True, exist_ok=True)
 
@@ -231,8 +231,10 @@ def capture(input_str: str, source_type: str = "auto") -> dict:
     print(f"[OK] Successfully captured [{source_type.upper()}] ID: {capture_id}")
     print(f"     -> Metadata: raw/{capture_id}/metadata.json")
     print(f"     -> Content:  raw/{capture_id}/content.md")
+    print(f"     -> Source:   {source}")
 
     return {
+        "id": capture_id,
         "metadata": metadata_payload,
         "content": raw_content,
         "dir": str(capture_dir)
@@ -242,7 +244,7 @@ def capture(input_str: str, source_type: str = "auto") -> dict:
 def main():
     if len(sys.argv) < 2:
         print("Usage: python capture.py <text_note | URL | filepath> [source_type]")
-        sys.argv.append("https://news.ycombinator.com") # Sample fallback run if executed without args
+        sys.exit(1)
 
     input_arg = sys.argv[1]
     stype = sys.argv[2] if len(sys.argv) > 2 else "auto"
@@ -251,3 +253,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

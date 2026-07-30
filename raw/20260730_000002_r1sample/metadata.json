@@ -1,0 +1,10 @@
+{
+  "id": "20260730_000002_r1sample",
+  "timestamp": "2026-07-30T00:00:02.000000+00:00",
+  "type": "link",
+  "source": "https://example.com/python-embeddings-guide",
+  "title": "Python Microservices and Vector Embeddings Guide",
+  "char_count": 201,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}
