@@ -42,7 +42,9 @@ secondself/
 ├── capture.py                     # Phase 1: Ingestion pipeline for text inputs, web URLs, and local files
 ├── classify.py                    # Phase 2: Autonomous PARA classifier using Groq LLM (Llama 3.3 70B)
 ├── link.py                        # Phase 3: Dense vector embedding & automatic `[[wikilink]]` linker
+├── view_embeddings.py             # Vector Inspector: View & inspect dense embeddings in embeddings.npy
 ├── requirements.txt               # Production dependencies (groq, numpy, scikit-learn, requests, bs4)
+
 ├── .env.example                   # Environment variable template (`GROQ_API_KEY`)
 ├── .gitignore                     # Git ignore rules for virtual environments, secrets, and caches
 └── README.md                      # Complete system documentation & usage guide
