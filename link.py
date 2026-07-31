@@ -157,10 +157,14 @@ def load_wiki_notes() -> list[dict]:
     return notes
 
 
-def generate_embeddings(notes: list[dict]) -> np.ndarray:
+def generate_embeddings(notes: list[dict]) -> np.ndarray | None:
     """
     Encodes combined text (title + summary + tags + body) into dense vectors.
     """
+    if np is None:
+        print("[Error] 'numpy' package is not installed.", file=sys.stderr)
+        return None
+
     if not notes:
         return np.empty((0, 384))
 
@@ -186,14 +190,15 @@ def generate_embeddings(notes: list[dict]) -> np.ndarray:
     return embeddings
 
 
-def compute_similarity_matrix(embeddings: np.ndarray) -> np.ndarray:
+def compute_similarity_matrix(embeddings: np.ndarray | None) -> np.ndarray | None:
     """Computes pairwise cosine similarity matrix."""
-    if embeddings.size == 0:
-        return np.empty((0, 0))
+    if np is None or embeddings is None or getattr(embeddings, 'size', 0) == 0:
+        return np.empty((0, 0)) if np is not None else None
     # Normalized embeddings dot product equals cosine similarity
     sim_matrix = np.dot(embeddings, embeddings.T)
     # Clip numerical precision artifacts to [0.0, 1.0]
     return np.clip(sim_matrix, 0.0, 1.0)
+
 
 
 def format_yaml_val(val) -> str:
@@ -286,7 +291,12 @@ def auto_link_wiki(similarity_threshold: float = DEFAULT_THRESHOLD) -> dict:
     embeddings = generate_embeddings(notes)
     sim_matrix = compute_similarity_matrix(embeddings)
 
+    if sim_matrix is None or np is None:
+        print("[Warning] Vector engine unavailable (missing dependencies). Skipping auto-linking.")
+        return {"total_notes": len(notes), "linked_notes": 0, "total_edges": 0}
+
     num_notes = len(notes)
+
     links_by_note = {i: [] for i in range(num_notes)}
     total_edges = 0
 
