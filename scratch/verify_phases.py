@@ -21,6 +21,7 @@ if hasattr(sys.stderr, "reconfigure"):
 import capture
 import classify
 import link
+import build_graph
 
 
 def test_phase0():
@@ -136,14 +137,29 @@ def test_phase3():
     print(f"✅ Phase 3 Passed: Auto-Linker generated dense embeddings & bidirectional links.")
 
 
+def test_phase4():
+    print("\n==========================================")
+    print("  PHASE 4: Graph Data Model & Visualizer")
+    print("==========================================")
+    
+    graph_data = build_graph.generate_graph_data()
+    assert "nodes" in graph_data and "edges" in graph_data, "graph_data format invalid"
+    assert (BASE_DIR / "graph.json").exists(), "graph.json was not created"
+    
+    build_graph.render_interactive_graph(graph_data)
+    assert (BASE_DIR / "graph.html").exists(), "graph.html was not created"
+    print(f"✅ Phase 4 Passed: Graph builder & PyVis visualizer exported graph.json & graph.html.")
+
+
 def main():
     try:
         test_phase0()
         cids = test_phase1()
         test_phase2(cids)
         test_phase3()
+        test_phase4()
         print("\n==========================================")
-        print("🎉 ALL IMPLEMENTED PHASES (0, 1, 2, 3) VERIFIED & WORKING PERFECTLY!")
+        print("🎉 ALL IMPLEMENTED PHASES (0, 1, 2, 3, 4) VERIFIED & WORKING PERFECTLY!")
         print("==========================================\n")
     except Exception as e:
         print(f"\n❌ VERIFICATION FAILED: {e}", file=sys.stderr)

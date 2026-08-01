@@ -1,0 +1,1553 @@
+{
+  "nodes": [
+    {
+      "id": "20260801_082549_25fec",
+      "label": "https://example.com",
+      "category": "Archives",
+      "tags": [
+        "legacy",
+        "notes",
+        "archived"
+      ],
+      "summary": "Archived reference notes exported from a legacy note-taking application.",
+      "color": "#9D9D9D",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> legacy, notes, archived<br/><b>Summary:</b> Archived reference notes exported from a legacy note-taking application."
+    },
+    {
+      "id": "20260801_091049_1eb0c",
+      "label": "Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus",
+      "category": "Archives",
+      "tags": [
+        "django",
+        "python",
+        "legacy"
+      ],
+      "summary": "API documentation for deprecated Django 3.2 monolithic service replaced by FastAPI in 2024.",
+      "color": "#9D9D9D",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> django, python, legacy<br/><b>Summary:</b> API documentation for deprecated Django 3.2 monolithic service replaced by FastAPI in 2024."
+    },
+    {
+      "id": "20260801_092550_2e090",
+      "label": "https://example.com",
+      "category": "Archives",
+      "tags": [
+        "redis",
+        "cache",
+        "archived"
+      ],
+      "summary": "Legacy Redis cluster configuration files replaced by key-value memory store in 2024.",
+      "color": "#9D9D9D",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> redis, cache, archived<br/><b>Summary:</b> Legacy Redis cluster configuration files replaced by key-value memory store in 2024."
+    },
+    {
+      "id": "20260801_094050_3a4f5",
+      "label": "Weekly Meal Prep & Low-GI Nutrition Routine",
+      "category": "Archives",
+      "tags": [
+        "nodejs",
+        "express",
+        "archived"
+      ],
+      "summary": "Archived repository snapshot of Express.js REST API service migrated to Python.",
+      "color": "#9D9D9D",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>Weekly Meal Prep & Low-GI Nutrition Routine</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> nodejs, express, archived<br/><b>Summary:</b> Archived repository snapshot of Express.js REST API service migrated to Python."
+    },
+    {
+      "id": "20260801_084049_bd6e8",
+      "label": "https://example.com",
+      "category": "Areas",
+      "tags": [
+        "monitoring",
+        "grafana",
+        "prometheus",
+        "devops"
+      ],
+      "summary": "Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates.",
+      "color": "#4D96FF",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> monitoring, grafana, prometheus, devops<br/><b>Summary:</b> Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates."
+    },
+    {
+      "id": "20260801_095550_22ea0",
+      "label": "https://example.com",
+      "category": "Areas",
+      "tags": [
+        "finance",
+        "investing",
+        "budget"
+      ],
+      "summary": "Long-term asset allocation strategy across broad market index funds and emergency savings.",
+      "color": "#4D96FF",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> finance, investing, budget<br/><b>Summary:</b> Long-term asset allocation strategy across broad market index funds and emergency savings."
+    },
+    {
+      "id": "20260801_105551_7b0f9",
+      "label": "Personal Financial Portfolio & Index Fund Strategy",
+      "category": "Areas",
+      "tags": [
+        "nutrition",
+        "health",
+        "cooking"
+      ],
+      "summary": "Standard weekly grocery list, batch cooking prep ideas, and balanced meal timing.",
+      "color": "#4D96FF",
+      "value": 100,
+      "degree": 18,
+      "title": "<b>Personal Financial Portfolio & Index Fund Strategy</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> nutrition, health, cooking<br/><b>Summary:</b> Standard weekly grocery list, batch cooking prep ideas, and balanced meal timing."
+    },
+    {
+      "id": "20260801_101050_5c511",
+      "label": "Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus",
+      "category": "Projects",
+      "tags": [
+        "ai",
+        "second-brain",
+        "python"
+      ],
+      "summary": "Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking.",
+      "color": "#FF6B6B",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> ai, second-brain, python<br/><b>Summary:</b> Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking."
+    },
+    {
+      "id": "20260801_104051_6e4f9",
+      "label": "Microservices architecture in Python using gRPC, REST APIs,",
+      "category": "Projects",
+      "tags": [
+        "rag",
+        "ai",
+        "llm",
+        "evaluation"
+      ],
+      "summary": "Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness.",
+      "color": "#FF6B6B",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>Microservices architecture in Python using gRPC, REST APIs,</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> rag, ai, llm, evaluation<br/><b>Summary:</b> Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness."
+    },
+    {
+      "id": "20260801_085549_b32ce",
+      "label": "https://example.com",
+      "category": "Resources",
+      "tags": [
+        "kubernetes",
+        "k8s",
+        "devops",
+        "cloud"
+      ],
+      "summary": "Configuring Horizontal Pod Autoscaler (HPA) and setting CPU/Memory request boundaries.",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> kubernetes, k8s, devops, cloud<br/><b>Summary:</b> Configuring Horizontal Pod Autoscaler (HPA) and setting CPU/Memory request boundaries."
+    },
+    {
+      "id": "20260801_102550_1bb26",
+      "label": "https://example.com",
+      "category": "Resources",
+      "tags": [
+        "vector-database",
+        "ai",
+        "chromadb",
+        "qdrant"
+      ],
+      "summary": "Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases.",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> vector-database, ai, chromadb, qdrant<br/><b>Summary:</b> Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases."
+    },
+    {
+      "id": "20260801_151421_0ad105",
+      "label": "https://example.com",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture.",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture."
+    },
+    {
+      "id": "20260801_151421_61e1a2",
+      "label": "https://example.com",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Project: SecondSelf \u2014 Your Personal AI Second Brain ProblemStatement.md Every notes app fails the same way: you capture hundreds of notes, bookmarks, ...",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Project: SecondSelf \u2014 Your Personal AI Second Brain ProblemStatement.md Every notes app fails the same way: you capture hundreds of notes, bookmarks, ..."
+    },
+    {
+      "id": "20260801_151421_e08357",
+      "label": "Weekly Meal Prep & Low-GI Nutrition Routine",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Bookmark capture for URL: https://example.com (Content could not be automatically scraped or requires authentication).",
+      "color": "#6BCB77",
+      "value": 105,
+      "degree": 19,
+      "title": "<b>Weekly Meal Prep & Low-GI Nutrition Routine</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Bookmark capture for URL: https://example.com (Content could not be automatically scraped or requires authentication)."
+    },
+    {
+      "id": "20260801_151422_40b8f0",
+      "label": "Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Microservices architecture in Python using gRPC, REST APIs, and distributed caching.",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Microservices architecture in Python using gRPC, REST APIs, and distributed caching."
+    },
+    {
+      "id": "20260801_151422_e12711",
+      "label": "https://example.com",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Designing resilient backend services with Python, gRPC microservices, and distributed systems.",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Designing resilient backend services with Python, gRPC microservices, and distributed systems."
+    },
+    {
+      "id": "20260801_151659_055c22",
+      "label": "Personal Financial Portfolio & Index Fund Strategy",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture.",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>Personal Financial Portfolio & Index Fund Strategy</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture."
+    },
+    {
+      "id": "20260801_151659_74dcaa",
+      "label": "https://example.com",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Project: SecondSelf \u2014 Your Personal AI Second Brain ProblemStatement.md Every notes app fails the same way: you capture hundreds of notes, bookmarks, ...",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>https://example.com</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Project: SecondSelf \u2014 Your Personal AI Second Brain ProblemStatement.md Every notes app fails the same way: you capture hundreds of notes, bookmarks, ..."
+    },
+    {
+      "id": "20260801_151659_8332f6",
+      "label": "Weekly Meal Prep & Low-GI Nutrition Routine",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Bookmark capture for URL: https://example.com (Content could not be automatically scraped or requires authentication).",
+      "color": "#6BCB77",
+      "value": 105,
+      "degree": 19,
+      "title": "<b>Weekly Meal Prep & Low-GI Nutrition Routine</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Bookmark capture for URL: https://example.com (Content could not be automatically scraped or requires authentication)."
+    },
+    {
+      "id": "20260801_151700_458cc8",
+      "label": "Personal Financial Portfolio & Index Fund Strategy",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Microservices architecture in Python using gRPC, REST APIs, and distributed caching.",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>Personal Financial Portfolio & Index Fund Strategy</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Microservices architecture in Python using gRPC, REST APIs, and distributed caching."
+    },
+    {
+      "id": "20260801_151701_ffdbfc",
+      "label": "Personal Financial Portfolio & Index Fund Strategy",
+      "category": "Resources",
+      "tags": [
+        "uncategorized"
+      ],
+      "summary": "Designing resilient backend services with Python, gRPC microservices, and distributed systems.",
+      "color": "#6BCB77",
+      "value": 110,
+      "degree": 20,
+      "title": "<b>Personal Financial Portfolio & Index Fund Strategy</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> uncategorized<br/><b>Summary:</b> Designing resilient backend services with Python, gRPC microservices, and distributed systems."
+    }
+  ],
+  "edges": [
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.81,
+      "title": "Similarity: 81%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151422_e12711",
+      "weight": 0.77,
+      "title": "Similarity: 77%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.76,
+      "title": "Similarity: 76%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_091049_1eb0c",
+      "weight": 0.72,
+      "title": "Similarity: 72%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_095550_22ea0",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_094050_3a4f5",
+      "weight": 0.7,
+      "title": "Similarity: 70%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.7,
+      "title": "Similarity: 70%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.69,
+      "title": "Similarity: 69%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_092550_2e090",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151659_055c22",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_084049_bd6e8",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_101050_5c511",
+      "weight": 0.65,
+      "title": "Similarity: 65%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151421_e08357",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_102550_1bb26",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_082549_25fec",
+      "to": "20260801_085549_b32ce",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_094050_3a4f5",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_091049_1eb0c",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151422_e12711",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_102550_1bb26",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_101050_5c511",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_091049_1eb0c",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151659_055c22",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_092550_2e090",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151421_e08357",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_095550_22ea0",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_091049_1eb0c",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.55,
+      "title": "Similarity: 55%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_095550_22ea0",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151422_e12711",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_092550_2e090",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_102550_1bb26",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_094050_3a4f5",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_092550_2e090",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_101050_5c511",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151421_e08357",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151659_055c22",
+      "weight": 0.55,
+      "title": "Similarity: 55%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.53,
+      "title": "Similarity: 53%"
+    },
+    {
+      "from": "20260801_092550_2e090",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.53,
+      "title": "Similarity: 53%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_102550_1bb26",
+      "weight": 0.76,
+      "title": "Similarity: 76%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.65,
+      "title": "Similarity: 65%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151422_e12711",
+      "weight": 0.65,
+      "title": "Similarity: 65%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_095550_22ea0",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_094050_3a4f5",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_101050_5c511",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151659_055c22",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151421_e08357",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_094050_3a4f5",
+      "weight": 0.56,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.56,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.56,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_094050_3a4f5",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.55,
+      "title": "Similarity: 55%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151659_055c22",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_102550_1bb26",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151422_e12711",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_095550_22ea0",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_101050_5c511",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_085549_b32ce",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151421_e08357",
+      "weight": 0.54,
+      "title": "Similarity: 54%"
+    },
+    {
+      "from": "20260801_084049_bd6e8",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.52,
+      "title": "Similarity: 52%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.8,
+      "title": "Similarity: 80%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151422_e12711",
+      "weight": 0.8,
+      "title": "Similarity: 80%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_101050_5c511",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.7,
+      "title": "Similarity: 70%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.69,
+      "title": "Similarity: 69%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.65,
+      "title": "Similarity: 65%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151659_055c22",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_102550_1bb26",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_095550_22ea0",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151421_e08357",
+      "weight": 0.55,
+      "title": "Similarity: 55%"
+    },
+    {
+      "from": "20260801_095550_22ea0",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.53,
+      "title": "Similarity: 53%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.82,
+      "title": "Similarity: 82%"
+    },
+    {
+      "from": "20260801_105551_7b0f9",
+      "to": "20260801_151659_055c22",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_105551_7b0f9",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_105551_7b0f9",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_105551_7b0f9",
+      "to": "20260801_151422_e12711",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_105551_7b0f9",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.56,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.56,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_105551_7b0f9",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.56,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_105551_7b0f9",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.55,
+      "title": "Similarity: 55%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_105551_7b0f9",
+      "weight": 0.54,
+      "title": "Similarity: 54%"
+    },
+    {
+      "from": "20260801_105551_7b0f9",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.54,
+      "title": "Similarity: 54%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.8,
+      "title": "Similarity: 80%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151422_e12711",
+      "weight": 0.7,
+      "title": "Similarity: 70%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_102550_1bb26",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151659_055c22",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_101050_5c511",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151421_e08357",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_101050_5c511",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.7,
+      "title": "Similarity: 70%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151422_e12711",
+      "weight": 0.65,
+      "title": "Similarity: 65%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151659_055c22",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151421_e08357",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_104051_6e4f9",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_104051_6e4f9",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.55,
+      "title": "Similarity: 55%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151421_e08357",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_102550_1bb26",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151422_e12711",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151659_055c22",
+      "weight": 0.56,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.55,
+      "title": "Similarity: 55%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.54,
+      "title": "Similarity: 54%"
+    },
+    {
+      "from": "20260801_085549_b32ce",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.53,
+      "title": "Similarity: 53%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151421_0ad105",
+      "weight": 0.65,
+      "title": "Similarity: 65%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151422_e12711",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151659_055c22",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151421_e08357",
+      "weight": 0.54,
+      "title": "Similarity: 54%"
+    },
+    {
+      "from": "20260801_102550_1bb26",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.53,
+      "title": "Similarity: 53%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151659_055c22",
+      "weight": 0.97,
+      "title": "Similarity: 97%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151421_61e1a2",
+      "weight": 0.72,
+      "title": "Similarity: 72%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.69,
+      "title": "Similarity: 69%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151422_e12711",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151421_e08357",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_151421_0ad105",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_151421_61e1a2",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260801_151421_61e1a2",
+      "to": "20260801_151659_055c22",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
+      "from": "20260801_151421_61e1a2",
+      "to": "20260801_151422_e12711",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_151421_61e1a2",
+      "to": "20260801_151421_e08357",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_151421_61e1a2",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_151421_61e1a2",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.62,
+      "title": "Similarity: 62%"
+    },
+    {
+      "from": "20260801_151421_61e1a2",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_151421_61e1a2",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_151421_e08357",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.92,
+      "title": "Similarity: 92%"
+    },
+    {
+      "from": "20260801_151421_e08357",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_151421_e08357",
+      "to": "20260801_151422_40b8f0",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_151421_e08357",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_151421_e08357",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_151421_e08357",
+      "to": "20260801_151422_e12711",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_151421_e08357",
+      "to": "20260801_151659_055c22",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_151422_40b8f0",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.97,
+      "title": "Similarity: 97%"
+    },
+    {
+      "from": "20260801_151422_40b8f0",
+      "to": "20260801_151422_e12711",
+      "weight": 0.88,
+      "title": "Similarity: 88%"
+    },
+    {
+      "from": "20260801_151422_40b8f0",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.84,
+      "title": "Similarity: 84%"
+    },
+    {
+      "from": "20260801_151422_40b8f0",
+      "to": "20260801_151659_055c22",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
+    },
+    {
+      "from": "20260801_151422_40b8f0",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.61,
+      "title": "Similarity: 61%"
+    },
+    {
+      "from": "20260801_151422_40b8f0",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_151422_e12711",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.95,
+      "title": "Similarity: 95%"
+    },
+    {
+      "from": "20260801_151422_e12711",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.82,
+      "title": "Similarity: 82%"
+    },
+    {
+      "from": "20260801_151422_e12711",
+      "to": "20260801_151659_055c22",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_151422_e12711",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.63,
+      "title": "Similarity: 63%"
+    },
+    {
+      "from": "20260801_151422_e12711",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.58,
+      "title": "Similarity: 57%"
+    },
+    {
+      "from": "20260801_151659_055c22",
+      "to": "20260801_151659_74dcaa",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_151659_055c22",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_151659_055c22",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.65,
+      "title": "Similarity: 65%"
+    },
+    {
+      "from": "20260801_151659_055c22",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_151659_74dcaa",
+      "to": "20260801_151659_8332f6",
+      "weight": 0.64,
+      "title": "Similarity: 64%"
+    },
+    {
+      "from": "20260801_151659_74dcaa",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.6,
+      "title": "Similarity: 60%"
+    },
+    {
+      "from": "20260801_151659_74dcaa",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.57,
+      "title": "Similarity: 56%"
+    },
+    {
+      "from": "20260801_151659_8332f6",
+      "to": "20260801_151700_458cc8",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_151659_8332f6",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.59,
+      "title": "Similarity: 59%"
+    },
+    {
+      "from": "20260801_151700_458cc8",
+      "to": "20260801_151701_ffdbfc",
+      "weight": 0.86,
+      "title": "Similarity: 86%"
+    }
+  ]
+}

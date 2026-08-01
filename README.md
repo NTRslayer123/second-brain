@@ -36,12 +36,12 @@ secondself/
 │   ├── Resources/                 # Reference topics, interests, and guides
 │   └── Archives/                  # Inactive, completed, or archived knowledge items
 ├── scratch/                       # Verification scripts and sample data utilities
-│   ├── verify_phases.py           # Unified automated test suite for Phases 0, 1, 2, and 3
-│   ├── verify_phase3.py           # Focused test suite for vector embedding & wikilink generation
-│   └── clean_and_populate_samples.py # Utility to populate clean test samples into raw/ and wiki/
+│   ├── verify_phases.py           # Unified automated test suite for all implemented phases (Phases 0-4)
+│   └── clean_and_populate_samples.py # Utility to populate clean random test samples (10-25 notes) into raw/ and wiki/
 ├── capture.py                     # Phase 1: Ingestion pipeline for text inputs, web URLs, and local files
 ├── classify.py                    # Phase 2: Autonomous PARA classifier using Groq LLM (Llama 3.3 70B)
 ├── link.py                        # Phase 3: Dense vector embedding & automatic `[[wikilink]]` linker
+├── build_graph.py                 # Phase 4: Graph data model & interactive PyVis visualizer
 ├── view_embeddings.py             # Vector Inspector: View & inspect dense embeddings in embeddings.npy
 ├── requirements.txt               # Production dependencies (groq, numpy, scikit-learn, requests, bs4)
 
@@ -70,13 +70,10 @@ secondself/
 ### 🧪 Verification & Utility Scripts (`scratch/`)
 
 * **[`scratch/verify_phases.py`](file:///g:/My%20Drive/AI/scratch/verify_phases.py)**  
-  The primary test runner for the project. Verifies directory structures (Phase 0), raw ingestion (Phase 1), LLM classification (Phase 2), and vector auto-linking (Phase 3) end-to-end.
-
-* **[`scratch/verify_phase3.py`](file:///g:/My%20Drive/AI/scratch/verify_phase3.py)**  
-  Targeted test script focused specifically on validating vector embedding matrix construction, similarity calculations, and `[[wikilink]]` insertion in `link.py`.
+  The primary unified test runner for the project. Verifies directory structures (Phase 0), raw ingestion (Phase 1), LLM classification (Phase 2), vector auto-linking (Phase 3), and graph visualization (Phase 4) end-to-end.
 
 * **[`scratch/clean_and_populate_samples.py`](file:///g:/My%20Drive/AI/scratch/clean_and_populate_samples.py)**  
-  A utility script that resets existing test notes and populates `raw/` and `wiki/` with clean, diverse example notes spanning all four PARA categories for testing.
+  A utility script that resets existing test notes and populates `raw/` and `wiki/` with clean, diverse example notes (10-25 random notes) spanning all four PARA categories.
 
 ---
 
