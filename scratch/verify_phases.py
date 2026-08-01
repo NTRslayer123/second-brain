@@ -22,6 +22,7 @@ import capture
 import classify
 import link
 import build_graph
+import ask
 
 
 def test_phase0():
@@ -151,6 +152,36 @@ def test_phase4():
     print(f"✅ Phase 4 Passed: Graph builder & PyVis visualizer exported graph.json & graph.html.")
 
 
+def test_phase5():
+    print("\n==========================================")
+    print("  PHASE 5: RAG Q&A Search Engine (ask.py)")
+    print("==========================================")
+
+    # Ingest a specific test note to query against
+    q_note = "Phase 5 RAG Retrieval Test Note: Building microservices with Python, gRPC, and vector similarity search."
+    cap = capture.capture(q_note, "note")
+    classify.process_raw_to_wiki(BASE_DIR / f"raw/{cap['id']}")
+    link.auto_link_wiki(similarity_threshold=0.50)
+
+    # Test context retrieval
+    results = ask.retrieve_context("microservices with Python gRPC", top_k=3)
+    assert len(results) > 0, "ask.retrieve_context returned no results!"
+    print(f"✅ Context Retrieval Verified (Found {len(results)} matching notes for query)")
+
+    # Test ask() end-to-end RAG Q&A
+    rag_response = ask.ask("What notes do I have about microservices with Python and gRPC?")
+    assert "answer" in rag_response, "ask() response missing 'answer'"
+    assert "sources" in rag_response, "ask() response missing 'sources'"
+    assert len(rag_response["answer"]) > 0, "ask() answer is empty"
+    print(f"✅ RAG Synthesis Verified (Sources cited: {len(rag_response['sources'])}, Confidence: {int(rag_response['confidence']*100)}%)")
+
+    # Test fallback response for unmatched query
+    empty_res = ask.ask("xyz_unmatched_query_12345_nonexistent_topic", min_similarity=0.99)
+    assert empty_res["confidence"] == 0.0, "Expected 0.0 confidence for unmatched query"
+    print(f"✅ Query Fallback Verified for unmatched topics.")
+    print(f"✅ Phase 5 Passed: RAG Q&A retrieval & synthesis engine verified.")
+
+
 def main():
     try:
         test_phase0()
@@ -158,8 +189,9 @@ def main():
         test_phase2(cids)
         test_phase3()
         test_phase4()
+        test_phase5()
         print("\n==========================================")
-        print("🎉 ALL IMPLEMENTED PHASES (0, 1, 2, 3, 4) VERIFIED & WORKING PERFECTLY!")
+        print("🎉 ALL IMPLEMENTED PHASES (0, 1, 2, 3, 4, 5) VERIFIED & WORKING PERFECTLY!")
         print("==========================================\n")
     except Exception as e:
         print(f"\n❌ VERIFICATION FAILED: {e}", file=sys.stderr)

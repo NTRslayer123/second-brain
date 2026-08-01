@@ -42,6 +42,7 @@ secondself/
 ├── classify.py                    # Phase 2: Autonomous PARA classifier using Groq LLM (Llama 3.3 70B)
 ├── link.py                        # Phase 3: Dense vector embedding & automatic `[[wikilink]]` linker
 ├── build_graph.py                 # Phase 4: Graph data model & interactive PyVis visualizer
+├── ask.py                         # Phase 5: RAG Q&A Search Engine using Groq LLM & vector similarity
 ├── view_embeddings.py             # Vector Inspector: View & inspect dense embeddings in embeddings.npy
 ├── requirements.txt               # Production dependencies (groq, numpy, scikit-learn, requests, bs4)
 
