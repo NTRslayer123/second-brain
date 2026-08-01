@@ -1,1 +1,0 @@
-Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture.

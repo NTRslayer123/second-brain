@@ -1,0 +1,10 @@
+{
+  "id": "20260801_144422_45b3e",
+  "timestamp": "2026-08-01T14:44:22.415537+00:00",
+  "type": "file",
+  "source": "docs/legacy_export_2023.txt",
+  "title": "Legacy Note Taking App Export 2023",
+  "char_count": 141,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "20260801_104420_8e497",
+  "timestamp": "2026-08-01T10:44:20.597324+00:00",
+  "type": "note",
+  "source": "CLI / User Note",
+  "title": "RAG Pipeline Evaluation Metrics & Hallucination Prevention",
+  "char_count": 184,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}

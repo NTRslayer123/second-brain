@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Cleans out all captured and classified user files from raw/ and wiki/
-and populates a random set of 10 to 25 realistic example notes for demonstration.
+and populates a random set of 25 to 100 realistic example notes generated
+completely locally on the device (zero network calls).
 """
 
 import os
@@ -22,8 +23,10 @@ BASE_DIR = Path(__file__).parent.parent.resolve()
 RAW_DIR = BASE_DIR / "raw"
 WIKI_DIR = BASE_DIR / "wiki"
 
-# Pool of 30 realistic topics spanning Projects, Areas, Resources, and Archives
-SAMPLE_POOL = [
+PARA_CATEGORIES = ["Projects", "Areas", "Resources", "Archives"]
+
+# Rich pool of local sample topics across all PARA categories
+LOCAL_SAMPLE_POOL = [
     {
         "title": "SecondSelf AI Knowledge Base Engine",
         "category": "Projects",
@@ -37,7 +40,7 @@ SAMPLE_POOL = [
         "title": "Python Microservices and Vector Embeddings Guide",
         "category": "Resources",
         "type": "link",
-        "source": "https://example.com/python-embeddings-guide",
+        "source": "g:\\My Drive\\AI\\docs\\architecture.md",
         "tags": ["python", "embeddings", "microservices"],
         "summary": "Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python.",
         "content": "# Python Microservices and Vector Embeddings Guide\n\nReference material covering Sentence Transformers, dense vector embeddings, cosine similarity computation, and building fast microservices in Python."
@@ -63,8 +66,8 @@ SAMPLE_POOL = [
     {
         "title": "FastAPI & Async Architecture Patterns",
         "category": "Resources",
-        "type": "link",
-        "source": "https://fastapi.tiangolo.com/async/",
+        "type": "note",
+        "source": "CLI / User Note",
         "tags": ["fastapi", "python", "async", "web"],
         "summary": "Best practices for asynchronous request handling and background worker queues in FastAPI.",
         "content": "# FastAPI & Async Architecture Patterns\n\nGuide to writing high-throughput async endpoints, background tasks, and dependency injection in modern Python APIs."
@@ -99,8 +102,8 @@ SAMPLE_POOL = [
     {
         "title": "Designing Data-Intensive Applications Summary",
         "category": "Resources",
-        "type": "note",
-        "source": "CLI / User Note",
+        "type": "file",
+        "source": "books/ddia_summary.md",
         "tags": ["books", "architecture", "distributed-systems"],
         "summary": "Key takeaways on reliable, scalable, and maintainable distributed system architectures.",
         "content": "# Designing Data-Intensive Applications Summary\n\nNotes on partition strategies, consensus protocols (Raft/Paxos), transactions, event sourcing, and stream processing."
@@ -135,8 +138,8 @@ SAMPLE_POOL = [
     {
         "title": "Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus",
         "category": "Resources",
-        "type": "link",
-        "source": "https://example.com/vector-db-benchmark",
+        "type": "note",
+        "source": "CLI / User Note",
         "tags": ["vector-database", "ai", "chromadb", "qdrant"],
         "summary": "Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases.",
         "content": "# Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus\n\nComparative analysis of vector storage engines for similarity retrieval, filtering metadata, and scaling embeddings in production."
@@ -180,8 +183,8 @@ SAMPLE_POOL = [
     {
         "title": "Kubernetes Pod Resource Optimization & Autoscaling",
         "category": "Resources",
-        "type": "link",
-        "source": "https://kubernetes.io/docs/concepts/workloads/autoscaling/",
+        "type": "note",
+        "source": "CLI / User Note",
         "tags": ["kubernetes", "k8s", "devops", "cloud"],
         "summary": "Configuring Horizontal Pod Autoscaler (HPA) and setting CPU/Memory request boundaries.",
         "content": "# Kubernetes Pod Resource Optimization & Autoscaling\n\nGuide to avoiding OOMKilled errors, setting appropriate resource requests/limits, and scaling cluster nodes with Karpenter."
@@ -252,8 +255,8 @@ SAMPLE_POOL = [
     {
         "title": "LLM Quantization & Local Inference with Ollama & GGUF",
         "category": "Resources",
-        "type": "link",
-        "source": "https://example.com/llm-quantization-guide",
+        "type": "note",
+        "source": "CLI / User Note",
         "tags": ["llm", "ai", "ollama", "quantization"],
         "summary": "Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp.",
         "content": "# LLM Quantization & Local Inference with Ollama & GGUF\n\nPractical guide on RAM requirements, context window limits, GPU offloading layers, and running local AI inference."
@@ -327,25 +330,54 @@ def generate_unique_id(index: int, total: int) -> tuple[str, str]:
     return id_str, iso_str
 
 
+def generate_local_samples(target_count: int) -> list[dict]:
+    """
+    Generates a random selection of target_count notes strictly from local pool.
+    If target_count > len(LOCAL_SAMPLE_POOL), variations are generated locally.
+    """
+    samples = []
+    pool = list(LOCAL_SAMPLE_POOL)
+    random.shuffle(pool)
+
+    for i in range(target_count):
+        base_item = pool[i % len(pool)]
+        # If cycling past original pool length, create a unique variation
+        if i >= len(pool):
+            variant_num = (i // len(pool)) + 1
+            item = {
+                "title": f"{base_item['title']} (Part {variant_num})",
+                "category": base_item["category"],
+                "type": base_item["type"],
+                "source": base_item["source"],
+                "tags": base_item["tags"],
+                "summary": f"{base_item['summary']} (Module variation {variant_num})",
+                "content": f"# {base_item['title']} - Volume {variant_num}\n\n{base_item['content']}\n\n*Local device generated note instance {i+1}.*"
+            }
+        else:
+            item = base_item
+
+        samples.append(item)
+
+    return samples
+
+
 def main():
-    # Pick a random number of sample items between 10 and 25
-    count = random.randint(10, 25)
-    
+    # Pick a random number of sample items between 25 and 100
+    count = random.randint(25, 100)
+
     print(f"Cleaning raw/ and wiki/ in {BASE_DIR}...")
     clean_directory(RAW_DIR)
     clean_directory(WIKI_DIR)
 
     # Ensure PARA subfolders and gitkeeps exist
-    for sub in ["Projects", "Areas", "Resources", "Archives"]:
+    for sub in PARA_CATEGORIES:
         create_gitkeep(WIKI_DIR / sub)
     create_gitkeep(RAW_DIR)
 
-    # Select `count` unique random samples from SAMPLE_POOL
-    selected_samples = random.sample(SAMPLE_POOL, min(count, len(SAMPLE_POOL)))
+    print(f"⚡ Generating {count} random sample notes locally from device pool...")
+    selected_samples = generate_local_samples(target_count=count)
 
-    category_counts = {"Projects": 0, "Areas": 0, "Resources": 0, "Archives": 0}
-
-    print(f"Populating {len(selected_samples)} random sample notes across PARA categories...")
+    category_counts = {cat: 0 for cat in PARA_CATEGORIES}
 
     for i, ex in enumerate(selected_samples):
         note_id, timestamp_str = generate_unique_id(i, len(selected_samples))
@@ -389,7 +421,7 @@ def main():
         ]
         (wiki_cat_dir / f"{note_id}.md").write_text("\n".join(fm), encoding="utf-8")
 
-    print(f"✅ Randomly populated {len(selected_samples)} example items into raw/ and wiki/:")
+    print(f"\n✅ Populated {len(selected_samples)} local notes into raw/ and wiki/:")
     for cat, cnt in category_counts.items():
         print(f"   • {cat}: {cnt} items")
 

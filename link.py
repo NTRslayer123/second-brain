@@ -41,7 +41,7 @@ WIKI_DIR = BASE_DIR / "wiki"
 EMBEDDINGS_CACHE_PATH = BASE_DIR / "embeddings.npy"
 
 DEFAULT_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-DEFAULT_THRESHOLD = float(os.getenv("AUTO_LINK_THRESHOLD", "0.65"))
+DEFAULT_THRESHOLD = float(os.getenv("AUTO_LINK_THRESHOLD", "0.48"))
 
 _MODEL_CACHE = None
 

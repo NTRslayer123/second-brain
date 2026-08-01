@@ -1,0 +1,10 @@
+{
+  "id": "20260801_105920_e7b0b",
+  "timestamp": "2026-08-01T10:59:20.702901+00:00",
+  "type": "note",
+  "source": "CLI / User Note",
+  "title": "Web Scraping & DOM Parsing Techniques with BeautifulSoup",
+  "char_count": 172,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}
