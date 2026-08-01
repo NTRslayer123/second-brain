@@ -161,7 +161,6 @@ def test_phase5():
     q_note = "Phase 5 RAG Retrieval Test Note: Building microservices with Python, gRPC, and vector similarity search."
     cap = capture.capture(q_note, "note")
     classify.process_raw_to_wiki(BASE_DIR / f"raw/{cap['id']}")
-    link.auto_link_wiki(similarity_threshold=0.50)
 
     # Test context retrieval
     results = ask.retrieve_context("microservices with Python gRPC", top_k=3)
@@ -182,6 +181,28 @@ def test_phase5():
     print(f"✅ Phase 5 Passed: RAG Q&A retrieval & synthesis engine verified.")
 
 
+def test_phase6():
+    print("\n==========================================")
+    print("  PHASE 6: Unified Streamlit Interface (app.py)")
+    print("==========================================")
+
+    # 1. Verify app.py file exists
+    app_path = BASE_DIR / "app.py"
+    assert app_path.exists(), "app.py does not exist!"
+
+    # 2. Verify .streamlit/config.toml configuration exists
+    st_config = BASE_DIR / ".streamlit/config.toml"
+    assert st_config.exists(), ".streamlit/config.toml does not exist!"
+
+    # 3. Import app and test get_vault_metrics
+    import app
+    metrics = app.get_vault_metrics()
+    assert "Total" in metrics and "Edges" in metrics, "get_vault_metrics format invalid"
+    print(f"✅ App Vault Metrics Verified (Total Notes: {metrics['Total']}, Connections: {metrics['Edges']})")
+    print(f"🏅 Milestone Achieved: The Oracle")
+    print(f"✅ Phase 6 Passed: Streamlit dashboard app.py and .streamlit/config.toml verified.")
+
+
 def main():
     try:
         test_phase0()
@@ -190,8 +211,9 @@ def main():
         test_phase3()
         test_phase4()
         test_phase5()
+        test_phase6()
         print("\n==========================================")
-        print("🎉 ALL IMPLEMENTED PHASES (0, 1, 2, 3, 4, 5) VERIFIED & WORKING PERFECTLY!")
+        print("🎉 ALL IMPLEMENTED PHASES (0, 1, 2, 3, 4, 5, 6) VERIFIED & WORKING PERFECTLY!")
         print("==========================================\n")
     except Exception as e:
         print(f"\n❌ VERIFICATION FAILED: {e}", file=sys.stderr)

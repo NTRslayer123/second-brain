@@ -1,0 +1,10 @@
+{
+  "id": "20260801_163532_477d39",
+  "timestamp": "2026-08-01T16:35:32.093236+00:00",
+  "type": "link",
+  "source": "https://example.com",
+  "title": "https://example.com",
+  "char_count": 118,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}
