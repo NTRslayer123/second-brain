@@ -1,0 +1,10 @@
+{
+  "id": "20260801_202753_4e623",
+  "timestamp": "2026-08-01T20:27:53.300558+00:00",
+  "type": "note",
+  "source": "CLI / User Note",
+  "title": "Kubernetes Pod Resource Optimization & Autoscaling (Part 3)",
+  "char_count": 286,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}

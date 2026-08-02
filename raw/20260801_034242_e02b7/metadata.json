@@ -1,0 +1,10 @@
+{
+  "id": "20260801_034242_e02b7",
+  "timestamp": "2026-08-01T03:42:42.387830+00:00",
+  "type": "file",
+  "source": "archives/redis_v5_config.conf",
+  "title": "Decommissioned Redis Cache Cluster v5.0",
+  "char_count": 159,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}

@@ -41,7 +41,7 @@ WIKI_DIR = BASE_DIR / "wiki"
 EMBEDDINGS_CACHE_PATH = BASE_DIR / "embeddings.npy"
 
 DEFAULT_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-DEFAULT_THRESHOLD = float(os.getenv("AUTO_LINK_THRESHOLD", "0.48"))
+DEFAULT_THRESHOLD = float(os.getenv("AUTO_LINK_THRESHOLD", "0.55"))
 
 _MODEL_CACHE = None
 
@@ -316,8 +316,8 @@ def auto_link_wiki(similarity_threshold: float = DEFAULT_THRESHOLD) -> dict:
     linked_notes_count = 0
     # Update note files
     for i in range(num_notes):
-        # Sort links by highest similarity first
-        links = sorted(links_by_note[i], key=lambda x: x["similarity"], reverse=True)
+        # Sort links by highest similarity first and take top 5 most relevant links
+        links = sorted(links_by_note[i], key=lambda x: x["similarity"], reverse=True)[:5]
         if links:
             linked_notes_count += 1
             total_edges += len(links)

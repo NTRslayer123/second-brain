@@ -1,0 +1,10 @@
+{
+  "id": "20260801_071243_658b8",
+  "timestamp": "2026-08-01T07:12:43.768728+00:00",
+  "type": "note",
+  "source": "CLI / User Note",
+  "title": "System Monitoring & Observability with Prometheus & Grafana",
+  "char_count": 189,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}

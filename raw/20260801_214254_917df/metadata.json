@@ -1,0 +1,10 @@
+{
+  "id": "20260801_214254_917df",
+  "timestamp": "2026-08-01T21:42:54.012749+00:00",
+  "type": "file",
+  "source": "docs/django_v3_docs.md",
+  "title": "Archived Django 3.2 Backend Codebase Documentation (Part 3)",
+  "char_count": 268,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}

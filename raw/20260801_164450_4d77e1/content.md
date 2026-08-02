@@ -1,1 +1,0 @@
-Phase 5 RAG Retrieval Test Note: Building microservices with Python, gRPC, and vector similarity search.

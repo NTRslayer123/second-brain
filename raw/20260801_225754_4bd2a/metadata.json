@@ -1,0 +1,10 @@
+{
+  "id": "20260801_225754_4bd2a",
+  "timestamp": "2026-08-01T22:57:54.861534+00:00",
+  "type": "file",
+  "source": "archives/wp_backup_2021.sql",
+  "title": "Old WordPress Blog Migration Backup 2021 (Part 3)",
+  "char_count": 236,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}

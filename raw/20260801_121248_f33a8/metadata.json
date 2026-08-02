@@ -1,0 +1,10 @@
+{
+  "id": "20260801_121248_f33a8",
+  "timestamp": "2026-08-01T12:12:48.471840+00:00",
+  "type": "note",
+  "source": "CLI / User Note",
+  "title": "Vector Databases Comparison: Qdrant vs ChromaDB vs Milvus (Part 2)",
+  "char_count": 307,
+  "content_file": "content.md",
+  "captured_via": "capture.py"
+}
