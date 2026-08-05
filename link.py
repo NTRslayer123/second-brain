@@ -32,7 +32,7 @@ except ImportError:
 try:
     # pyrefly: ignore [missing-import]
     from sentence_transformers import SentenceTransformer  # type: ignore
-except ImportError:
+except (ImportError, Exception):
     SentenceTransformer = None
 
 # Base directories
@@ -176,10 +176,19 @@ def generate_embeddings(notes: list[dict]) -> np.ndarray | None:
 
     model = get_model()
     if model is None:
-        print("[Warning] SentenceTransformer unavailable. Returning dummy zero vectors.", file=sys.stderr)
-        return np.zeros((len(notes), 384))
-
-    embeddings = model.encode(texts, convert_to_numpy=True, normalize_embeddings=True)
+        try:
+            from sklearn.feature_extraction.text import TfidfVectorizer
+            vectorizer = TfidfVectorizer(stop_words='english')
+            tfidf_matrix = vectorizer.fit_transform(texts).toarray()
+            norms = np.linalg.norm(tfidf_matrix, axis=1, keepdims=True)
+            norms[norms == 0] = 1.0
+            embeddings = tfidf_matrix / norms
+            print("[Notice] Generated TF-IDF embeddings fallback successfully.")
+        except Exception as e:
+            print(f"[Warning] TF-IDF fallback failed: {e}. Returning zero vectors.", file=sys.stderr)
+            embeddings = np.zeros((len(notes), 384))
+    else:
+        embeddings = model.encode(texts, convert_to_numpy=True, normalize_embeddings=True)
     
     # Cache matrix to local disk
     try:

@@ -82,21 +82,39 @@ def retrieve_context(query: str, top_k: int = DEFAULT_TOP_K, min_similarity: flo
     # Get embedding model from link module
     model = link.get_model()
     if model is None:
-        print("[Warning] Embedding model unavailable. Cannot perform vector retrieval.", file=sys.stderr)
-        return []
+        try:
+            from sklearn.feature_extraction.text import TfidfVectorizer
+            texts = []
+            for note in notes:
+                tags_str = " ".join(note["tags"]) if isinstance(note["tags"], list) else str(note["tags"])
+                combined_text = f"{note['title']}. {note['summary']}. Tags: {tags_str}. {note['body']}"
+                texts.append(combined_text)
 
-    # 1. Encode query prompt
-    query_text = query.strip()
-    query_embedding = model.encode([query_text], convert_to_numpy=True, normalize_embeddings=True)[0]
+            vectorizer = TfidfVectorizer(stop_words='english')
+            tfidf_matrix = vectorizer.fit_transform(texts + [query.strip()]).toarray()
+            norms = np.linalg.norm(tfidf_matrix, axis=1, keepdims=True)
+            norms[norms == 0] = 1.0
+            tfidf_norm = tfidf_matrix / norms
+            doc_embeddings = tfidf_norm[:-1]
+            query_embedding = tfidf_norm[-1]
+            similarities = np.dot(doc_embeddings, query_embedding)
+            similarities = np.clip(similarities, 0.0, 1.0)
+        except Exception as e:
+            print(f"[Warning] TF-IDF retrieval fallback failed: {e}", file=sys.stderr)
+            return []
+    else:
+        # 1. Encode query prompt
+        query_text = query.strip()
+        query_embedding = model.encode([query_text], convert_to_numpy=True, normalize_embeddings=True)[0]
 
-    # 2. Get or generate document embeddings
-    doc_embeddings = link.generate_embeddings(notes)
-    if doc_embeddings is None or getattr(doc_embeddings, 'size', 0) == 0:
-        return []
+        # 2. Get or generate document embeddings
+        doc_embeddings = link.generate_embeddings(notes)
+        if doc_embeddings is None or getattr(doc_embeddings, 'size', 0) == 0:
+            return []
 
-    # 3. Compute cosine similarity scores between query and document vectors
-    similarities = np.dot(doc_embeddings, query_embedding)
-    similarities = np.clip(similarities, 0.0, 1.0)
+        # 3. Compute cosine similarity scores between query and document vectors
+        similarities = np.dot(doc_embeddings, query_embedding)
+        similarities = np.clip(similarities, 0.0, 1.0)
 
     # 4. Rank notes by similarity score
     ranked_results = []
