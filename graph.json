@@ -44,8 +44,8 @@
       ],
       "summary": "API documentation for deprecated Django 3.2 monolithic service replaced by FastAPI in 2024.",
       "color": "#64748B",
-      "value": 40,
-      "degree": 6,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Deprecated Node.js Express API Server 2022</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> django, python, legacy<br/><b>Summary:</b> API documentation for deprecated Django 3.2 monolithic service replaced by FastAPI in 2024."
     },
     {
@@ -92,8 +92,8 @@
       ],
       "summary": "Archived repository snapshot of Express.js REST API service migrated to Python.",
       "color": "#64748B",
-      "value": 55,
-      "degree": 9,
+      "value": 60,
+      "degree": 10,
       "title": "<b>Deprecated Node.js Express API Server 2022</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> nodejs, express, archived<br/><b>Summary:</b> Archived repository snapshot of Express.js REST API service migrated to Python."
     },
     {
@@ -140,8 +140,8 @@
       ],
       "summary": "API documentation for deprecated Django 3.2 monolithic service replaced by FastAPI in 2024. (Module variation 2)",
       "color": "#64748B",
-      "value": 45,
-      "degree": 7,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Deprecated Node.js Express API Server 2022</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> django, python, legacy<br/><b>Summary:</b> API documentation for deprecated Django 3.2 monolithic service replaced by FastAPI in 2024. (Module variation 2)"
     },
     {
@@ -188,8 +188,8 @@
       ],
       "summary": "Archived repository snapshot of Express.js REST API service migrated to Python. (Module variation 2)",
       "color": "#64748B",
-      "value": 55,
-      "degree": 9,
+      "value": 60,
+      "degree": 10,
       "title": "<b>Deprecated Node.js Express API Server 2022</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> nodejs, express, archived<br/><b>Summary:</b> Archived repository snapshot of Express.js REST API service migrated to Python. (Module variation 2)"
     },
     {
@@ -236,8 +236,8 @@
       ],
       "summary": "API documentation for deprecated Django 3.2 monolithic service replaced by FastAPI in 2024. (Module variation 3)",
       "color": "#64748B",
-      "value": 45,
-      "degree": 7,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Deprecated Node.js Express API Server 2022</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> django, python, legacy<br/><b>Summary:</b> API documentation for deprecated Django 3.2 monolithic service replaced by FastAPI in 2024. (Module variation 3)"
     },
     {
@@ -284,8 +284,8 @@
       ],
       "summary": "Archived repository snapshot of Express.js REST API service migrated to Python. (Module variation 3)",
       "color": "#64748B",
-      "value": 55,
-      "degree": 9,
+      "value": 60,
+      "degree": 10,
       "title": "<b>Deprecated Node.js Express API Server 2022</b><br/><b>Category:</b> Archives<br/><b>Tags:</b> nodejs, express, archived<br/><b>Summary:</b> Archived repository snapshot of Express.js REST API service migrated to Python. (Module variation 3)"
     },
     {
@@ -317,13 +317,13 @@
       ],
       "summary": "Daily spaced-repetition review routine using Anki for JLPT N3 vocabulary and kanji mastery.",
       "color": "#06B6D4",
-      "value": 40,
-      "degree": 6,
+      "value": 50,
+      "degree": 8,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> language, japanese, anki, learning<br/><b>Summary:</b> Daily spaced-repetition review routine using Anki for JLPT N3 vocabulary and kanji mastery."
     },
     {
       "id": "20260801_045742_4db0a",
-      "label": "Deep Work & Focus Time Management System (Part 3)",
+      "label": "Guitar Music Theory & Pentatonic Soloing Practice (Part 3)",
       "category": "Areas",
       "shape": "triangle",
       "tags": [
@@ -335,11 +335,11 @@
       "color": "#06B6D4",
       "value": 60,
       "degree": 10,
-      "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> music, guitar, practice<br/><b>Summary:</b> Daily 30-minute practice regime covering minor pentatonic scale positions, CAGED system, and metronome drills."
+      "title": "<b>Guitar Music Theory & Pentatonic Soloing Practice (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> music, guitar, practice<br/><b>Summary:</b> Daily 30-minute practice regime covering minor pentatonic scale positions, CAGED system, and metronome drills."
     },
     {
       "id": "20260801_054243_b9c75",
-      "label": "SecondSelf AI Knowledge Base Engine (Part 3)",
+      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
       "category": "Areas",
       "shape": "triangle",
       "tags": [
@@ -349,9 +349,9 @@
       ],
       "summary": "Ongoing standards and principles for organizing personal knowledge using the PARA method.",
       "color": "#06B6D4",
-      "value": 40,
-      "degree": 6,
-      "title": "<b>SecondSelf AI Knowledge Base Engine (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> pkm, standards, productivity<br/><b>Summary:</b> Ongoing standards and principles for organizing personal knowledge using the PARA method."
+      "value": 35,
+      "degree": 5,
+      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> pkm, standards, productivity<br/><b>Summary:</b> Ongoing standards and principles for organizing personal knowledge using the PARA method."
     },
     {
       "id": "20260801_055743_45e49",
@@ -365,13 +365,13 @@
       ],
       "summary": "Time-blocking routines, 90-minute focus blocks, notification batching, and distraction minimization.",
       "color": "#06B6D4",
-      "value": 55,
-      "degree": 9,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> productivity, time-management, deep-work<br/><b>Summary:</b> Time-blocking routines, 90-minute focus blocks, notification batching, and distraction minimization."
     },
     {
       "id": "20260801_065743_b1c0a",
-      "label": "Guitar Music Theory & Pentatonic Soloing Practice (Part 3)",
+      "label": "Deep Work & Focus Time Management System (Part 3)",
       "category": "Areas",
       "shape": "triangle",
       "tags": [
@@ -383,11 +383,11 @@
       "color": "#06B6D4",
       "value": 35,
       "degree": 5,
-      "title": "<b>Guitar Music Theory & Pentatonic Soloing Practice (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> nutrition, health, cooking<br/><b>Summary:</b> Standard weekly grocery list, batch cooking prep ideas, and balanced meal timing."
+      "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> nutrition, health, cooking<br/><b>Summary:</b> Standard weekly grocery list, batch cooking prep ideas, and balanced meal timing."
     },
     {
       "id": "20260801_071243_658b8",
-      "label": "SecondSelf Project",
+      "label": "SecondSelf AI Knowledge Base Engine (Part 3)",
       "category": "Areas",
       "shape": "triangle",
       "tags": [
@@ -400,7 +400,7 @@
       "color": "#06B6D4",
       "value": 35,
       "degree": 5,
-      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> monitoring, grafana, prometheus, devops<br/><b>Summary:</b> Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates."
+      "title": "<b>SecondSelf AI Knowledge Base Engine (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> monitoring, grafana, prometheus, devops<br/><b>Summary:</b> Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates."
     },
     {
       "id": "20260801_082744_b0f17",
@@ -464,8 +464,8 @@
       ],
       "summary": "Daily 30-minute practice regime covering minor pentatonic scale positions, CAGED system, and metronome drills. (Module variation 2)",
       "color": "#06B6D4",
-      "value": 80,
-      "degree": 14,
+      "value": 65,
+      "degree": 11,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> music, guitar, practice<br/><b>Summary:</b> Daily 30-minute practice regime covering minor pentatonic scale positions, CAGED system, and metronome drills. (Module variation 2)"
     },
     {
@@ -496,8 +496,8 @@
       ],
       "summary": "Time-blocking routines, 90-minute focus blocks, notification batching, and distraction minimization. (Module variation 2)",
       "color": "#06B6D4",
-      "value": 45,
-      "degree": 7,
+      "value": 70,
+      "degree": 12,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> productivity, time-management, deep-work<br/><b>Summary:</b> Time-blocking routines, 90-minute focus blocks, notification batching, and distraction minimization. (Module variation 2)"
     },
     {
@@ -512,13 +512,13 @@
       ],
       "summary": "Standard weekly grocery list, batch cooking prep ideas, and balanced meal timing. (Module variation 2)",
       "color": "#06B6D4",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> nutrition, health, cooking<br/><b>Summary:</b> Standard weekly grocery list, batch cooking prep ideas, and balanced meal timing. (Module variation 2)"
     },
     {
       "id": "20260801_144249_bdf00",
-      "label": "Microservices architecture in Python using gRPC, REST APIs",
+      "label": "Designing resilient backend services with Python, gRPC micro",
       "category": "Areas",
       "shape": "triangle",
       "tags": [
@@ -529,9 +529,9 @@
       ],
       "summary": "Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates. (Module variation 2)",
       "color": "#06B6D4",
-      "value": 40,
-      "degree": 6,
-      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> monitoring, grafana, prometheus, devops<br/><b>Summary:</b> Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates. (Module variation 2)"
+      "value": 35,
+      "degree": 5,
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> monitoring, grafana, prometheus, devops<br/><b>Summary:</b> Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates. (Module variation 2)"
     },
     {
       "id": "20260801_155750_8bd4c",
@@ -552,7 +552,7 @@
     },
     {
       "id": "20260801_164250_6c87e",
-      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
+      "label": "Microservices architecture in Python using gRPC, REST APIs",
       "category": "Areas",
       "shape": "triangle",
       "tags": [
@@ -564,7 +564,7 @@
       "color": "#06B6D4",
       "value": 35,
       "degree": 5,
-      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> finance, investing, budget<br/><b>Summary:</b> Long-term asset allocation strategy across broad market index funds and emergency savings. (Module variation 2)"
+      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> finance, investing, budget<br/><b>Summary:</b> Long-term asset allocation strategy across broad market index funds and emergency savings. (Module variation 2)"
     },
     {
       "id": "20260801_192752_2582a",
@@ -595,8 +595,8 @@
       ],
       "summary": "Daily 30-minute practice regime covering minor pentatonic scale positions, CAGED system, and metronome drills. (Module variation 3)",
       "color": "#06B6D4",
-      "value": 75,
-      "degree": 13,
+      "value": 85,
+      "degree": 15,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> music, guitar, practice<br/><b>Summary:</b> Daily 30-minute practice regime covering minor pentatonic scale positions, CAGED system, and metronome drills. (Module variation 3)"
     },
     {
@@ -627,8 +627,8 @@
       ],
       "summary": "Time-blocking routines, 90-minute focus blocks, notification batching, and distraction minimization. (Module variation 3)",
       "color": "#06B6D4",
-      "value": 75,
-      "degree": 13,
+      "value": 70,
+      "degree": 12,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> productivity, time-management, deep-work<br/><b>Summary:</b> Time-blocking routines, 90-minute focus blocks, notification batching, and distraction minimization. (Module variation 3)"
     },
     {
@@ -643,8 +643,8 @@
       ],
       "summary": "Standard weekly grocery list, batch cooking prep ideas, and balanced meal timing. (Module variation 3)",
       "color": "#06B6D4",
-      "value": 35,
-      "degree": 5,
+      "value": 45,
+      "degree": 7,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> nutrition, health, cooking<br/><b>Summary:</b> Standard weekly grocery list, batch cooking prep ideas, and balanced meal timing. (Module variation 3)"
     },
     {
@@ -660,8 +660,8 @@
       ],
       "summary": "Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates. (Module variation 3)",
       "color": "#06B6D4",
-      "value": 40,
-      "degree": 6,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Areas<br/><b>Tags:</b> monitoring, grafana, prometheus, devops<br/><b>Summary:</b> Maintaining real-time alerts, dashboard metrics, latency histograms, and error rates. (Module variation 3)"
     },
     {
@@ -732,7 +732,7 @@
     },
     {
       "id": "20260801_061243_b9ec6",
-      "label": "SecondSelf Project",
+      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -742,9 +742,9 @@
       ],
       "summary": "Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking.",
       "color": "#F59E0B",
-      "value": 45,
-      "degree": 7,
-      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> ai, second-brain, python<br/><b>Summary:</b> Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking."
+      "value": 55,
+      "degree": 9,
+      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> ai, second-brain, python<br/><b>Summary:</b> Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking."
     },
     {
       "id": "20260801_062743_1da6f",
@@ -764,7 +764,7 @@
     },
     {
       "id": "20260801_084244_6682c",
-      "label": "SecondSelf AI Knowledge Base Engine (Part 3)",
+      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -775,9 +775,9 @@
       ],
       "summary": "Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness.",
       "color": "#F59E0B",
-      "value": 45,
-      "degree": 7,
-      "title": "<b>SecondSelf AI Knowledge Base Engine (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> rag, ai, llm, evaluation<br/><b>Summary:</b> Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness."
+      "value": 40,
+      "degree": 6,
+      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> rag, ai, llm, evaluation<br/><b>Summary:</b> Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness."
     },
     {
       "id": "20260801_085744_bdcf0",
@@ -807,8 +807,8 @@
       ],
       "summary": "12-week progressive overload strength training program and macro nutrition plan.",
       "color": "#F59E0B",
-      "value": 45,
-      "degree": 7,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> fitness, health, workout<br/><b>Summary:</b> 12-week progressive overload strength training program and macro nutrition plan."
     },
     {
@@ -846,7 +846,7 @@
     },
     {
       "id": "20260801_134249_e8c4e",
-      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
+      "label": "SecondSelf Project",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -856,9 +856,9 @@
       ],
       "summary": "Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking. (Module variation 2)",
       "color": "#F59E0B",
-      "value": 50,
-      "degree": 8,
-      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> ai, second-brain, python<br/><b>Summary:</b> Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking. (Module variation 2)"
+      "value": 55,
+      "degree": 9,
+      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> ai, second-brain, python<br/><b>Summary:</b> Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking. (Module variation 2)"
     },
     {
       "id": "20260801_135749_29cca",
@@ -878,7 +878,7 @@
     },
     {
       "id": "20260801_161250_3abf2",
-      "label": "SecondSelf AI Knowledge Base Engine (Part 3)",
+      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -889,9 +889,9 @@
       ],
       "summary": "Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness. (Module variation 2)",
       "color": "#F59E0B",
-      "value": 55,
-      "degree": 9,
-      "title": "<b>SecondSelf AI Knowledge Base Engine (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> rag, ai, llm, evaluation<br/><b>Summary:</b> Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness. (Module variation 2)"
+      "value": 45,
+      "degree": 7,
+      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> rag, ai, llm, evaluation<br/><b>Summary:</b> Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness. (Module variation 2)"
     },
     {
       "id": "20260801_162750_4d5e5",
@@ -960,7 +960,7 @@
     },
     {
       "id": "20260801_211253_26d06",
-      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
+      "label": "SecondSelf Project",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -970,9 +970,9 @@
       ],
       "summary": "Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking. (Module variation 3)",
       "color": "#F59E0B",
-      "value": 45,
-      "degree": 7,
-      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> ai, second-brain, python<br/><b>Summary:</b> Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking. (Module variation 3)"
+      "value": 55,
+      "degree": 9,
+      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> ai, second-brain, python<br/><b>Summary:</b> Building SecondSelf personal AI knowledge base with PARA classification and vector auto-linking. (Module variation 3)"
     },
     {
       "id": "20260801_212753_8b93b",
@@ -992,7 +992,7 @@
     },
     {
       "id": "20260801_234255_252af",
-      "label": "SecondSelf AI Knowledge Base Engine (Part 3)",
+      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -1003,9 +1003,9 @@
       ],
       "summary": "Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness. (Module variation 3)",
       "color": "#F59E0B",
-      "value": 45,
-      "degree": 7,
-      "title": "<b>SecondSelf AI Knowledge Base Engine (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> rag, ai, llm, evaluation<br/><b>Summary:</b> Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness. (Module variation 3)"
+      "value": 40,
+      "degree": 6,
+      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> rag, ai, llm, evaluation<br/><b>Summary:</b> Implementing Ragas framework to evaluate context relevance, groundedness, and answer faithfulness. (Module variation 3)"
     },
     {
       "id": "20260801_235755_9bd7c",
@@ -1035,8 +1035,8 @@
       ],
       "summary": "12-week progressive overload strength training program and macro nutrition plan. (Module variation 3)",
       "color": "#F59E0B",
-      "value": 40,
-      "degree": 6,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Deep Work & Focus Time Management System (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> fitness, health, workout<br/><b>Summary:</b> 12-week progressive overload strength training program and macro nutrition plan. (Module variation 3)"
     },
     {
@@ -1057,7 +1057,7 @@
     },
     {
       "id": "20260805_010928_a618ce",
-      "label": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture",
+      "label": "phase 1 ingestion test note",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -1068,9 +1068,9 @@
       ],
       "summary": "A test note for phase 1 ingestion, focusing on python design patterns and secondself system architecture.",
       "color": "#F59E0B",
-      "value": 35,
-      "degree": 5,
-      "title": "<b>Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on python design patterns and secondself system architecture."
+      "value": 40,
+      "degree": 6,
+      "title": "<b>phase 1 ingestion test note</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on python design patterns and secondself system architecture."
     },
     {
       "id": "20260805_010930_7ef5bf",
@@ -1091,7 +1091,7 @@
     },
     {
       "id": "20260805_011007_7d1af9",
-      "label": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture",
+      "label": "phase 1 ingestion test note",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -1102,9 +1102,9 @@
       ],
       "summary": "A test note for phase 1 ingestion, focusing on Python design patterns and SecondSelf system architecture.",
       "color": "#F59E0B",
-      "value": 35,
-      "degree": 5,
-      "title": "<b>Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on Python design patterns and SecondSelf system architecture."
+      "value": 40,
+      "degree": 6,
+      "title": "<b>phase 1 ingestion test note</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on Python design patterns and SecondSelf system architecture."
     },
     {
       "id": "20260805_011009_697b3a",
@@ -1119,8 +1119,8 @@
       ],
       "summary": "A 4-week project to build an end-to-end system for capturing, organizing, and retrieving knowledge using AI and natural language processing.",
       "color": "#F59E0B",
-      "value": 40,
-      "degree": 6,
+      "value": 50,
+      "degree": 8,
       "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> secondself, personal-ai-second-brain, note-taking, knowledge-management<br/><b>Summary:</b> A 4-week project to build an end-to-end system for capturing, organizing, and retrieving knowledge using AI and natural language processing."
     },
     {
@@ -1136,13 +1136,13 @@
       ],
       "summary": "A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search.",
       "color": "#F59E0B",
-      "value": 35,
-      "degree": 5,
+      "value": 45,
+      "degree": 7,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, grpc, vector-similarity-search, microservices<br/><b>Summary:</b> A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search."
     },
     {
       "id": "20260805_011923_92d221",
-      "label": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture",
+      "label": "SecondSelf Project",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -1155,7 +1155,7 @@
       "color": "#F59E0B",
       "value": 40,
       "degree": 6,
-      "title": "<b>Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion of Python design patterns and SecondSelf system architecture."
+      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion of Python design patterns and SecondSelf system architecture."
     },
     {
       "id": "20260805_011926_f2d2c4",
@@ -1170,8 +1170,8 @@
       ],
       "summary": "A project to build a personal AI second brain that captures, organizes, and retrieves knowledge using the PARA framework.",
       "color": "#F59E0B",
-      "value": 50,
-      "degree": 8,
+      "value": 65,
+      "degree": 11,
       "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> secondself, ai, personal-knowledge-management, para<br/><b>Summary:</b> A project to build a personal AI second brain that captures, organizes, and retrieves knowledge using the PARA framework."
     },
     {
@@ -1187,13 +1187,13 @@
       ],
       "summary": "A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search.",
       "color": "#F59E0B",
-      "value": 35,
-      "degree": 5,
+      "value": 45,
+      "degree": 7,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> microservices, python, grpc, vector-similarity-search<br/><b>Summary:</b> A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search."
     },
     {
       "id": "20260805_012459_a29019",
-      "label": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture",
+      "label": "phase 1 ingestion test note",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -1204,9 +1204,9 @@
       ],
       "summary": "A test note for phase 1 ingestion, focusing on Python design patterns and SecondSelf system architecture.",
       "color": "#F59E0B",
-      "value": 35,
-      "degree": 5,
-      "title": "<b>Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on Python design patterns and SecondSelf system architecture."
+      "value": 40,
+      "degree": 6,
+      "title": "<b>phase 1 ingestion test note</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on Python design patterns and SecondSelf system architecture."
     },
     {
       "id": "20260805_012502_d96ec4",
@@ -1221,8 +1221,8 @@
       ],
       "summary": "A project to build a personal AI second brain that captures, organizes, and links notes and knowledge, and provides a natural language search interface to retrieve answers from accumulated knowledge.",
       "color": "#F59E0B",
-      "value": 50,
-      "degree": 8,
+      "value": 55,
+      "degree": 9,
       "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> secondself, personal-ai-second-brain, note-taking, knowledge-management<br/><b>Summary:</b> A project to build a personal AI second brain that captures, organizes, and links notes and knowledge, and provides a natural language search interface to retrieve answers from accumulated knowledge."
     },
     {
@@ -1238,13 +1238,13 @@
       ],
       "summary": "A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search.",
       "color": "#F59E0B",
-      "value": 60,
-      "degree": 10,
+      "value": 70,
+      "degree": 12,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, grpc, microservices, vector-similarity-search<br/><b>Summary:</b> A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search."
     },
     {
       "id": "20260805_012733_6f7a11",
-      "label": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture",
+      "label": "phase 1 ingestion test note",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -1255,9 +1255,9 @@
       ],
       "summary": "A test note for phase 1 ingestion, focusing on python design patterns and secondself system architecture.",
       "color": "#F59E0B",
-      "value": 35,
-      "degree": 5,
-      "title": "<b>Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on python design patterns and secondself system architecture."
+      "value": 40,
+      "degree": 6,
+      "title": "<b>phase 1 ingestion test note</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on python design patterns and secondself system architecture."
     },
     {
       "id": "20260805_012735_ef61b9",
@@ -1295,7 +1295,7 @@
     },
     {
       "id": "20260805_012909_5909f7",
-      "label": "SecondSelf Project",
+      "label": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -1308,11 +1308,11 @@
       "color": "#F59E0B",
       "value": 35,
       "degree": 5,
-      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on Python design patterns and the SecondSelf system architecture."
+      "title": "<b>Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on Python design patterns and the SecondSelf system architecture."
     },
     {
       "id": "20260805_012913_e152fd",
-      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
+      "label": "SecondSelf Project",
       "category": "Projects",
       "shape": "diamond",
       "tags": [
@@ -1325,11 +1325,79 @@
       "color": "#F59E0B",
       "value": 60,
       "degree": 10,
-      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> secondself, ai, personal-knowledge-management, para<br/><b>Summary:</b> A project aimed at building an end-to-end system for personal knowledge management using AI, where users can capture notes, links, and files, and the system automatically classifies, links, and renders them as a live interactive graph, and answers questions in plain English."
+      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> secondself, ai, personal-knowledge-management, para<br/><b>Summary:</b> A project aimed at building an end-to-end system for personal knowledge management using AI, where users can capture notes, links, and files, and the system automatically classifies, links, and renders them as a live interactive graph, and answers questions in plain English."
+    },
+    {
+      "id": "20260805_013055_5b512a",
+      "label": "Designing resilient backend services with Python, gRPC micro",
+      "category": "Projects",
+      "shape": "diamond",
+      "tags": [
+        "microservices",
+        "python",
+        "grpc",
+        "vector-similarity-search"
+      ],
+      "summary": "A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search.",
+      "color": "#F59E0B",
+      "value": 35,
+      "degree": 5,
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> microservices, python, grpc, vector-similarity-search<br/><b>Summary:</b> A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search."
+    },
+    {
+      "id": "20260805_013420_99420f",
+      "label": "Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture",
+      "category": "Projects",
+      "shape": "diamond",
+      "tags": [
+        "python",
+        "design-patterns",
+        "secondself",
+        "system-architecture"
+      ],
+      "summary": "A test note for phase 1 ingestion, focusing on Python design patterns and SecondSelf system architecture.",
+      "color": "#F59E0B",
+      "value": 35,
+      "degree": 5,
+      "title": "<b>Phase 1 Ingestion Test Note: Python design patterns and SecondSelf system architecture</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> python, design-patterns, secondself, system-architecture<br/><b>Summary:</b> A test note for phase 1 ingestion, focusing on Python design patterns and SecondSelf system architecture."
+    },
+    {
+      "id": "20260805_013422_f48a60",
+      "label": "SecondSelf Project",
+      "category": "Projects",
+      "shape": "diamond",
+      "tags": [
+        "secondself",
+        "personal-ai-second-brain",
+        "note-taking",
+        "knowledge-management"
+      ],
+      "summary": "A goal-oriented project to build an end-to-end system for capturing, organizing, and retrieving knowledge using AI and natural language processing.",
+      "color": "#F59E0B",
+      "value": 35,
+      "degree": 5,
+      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> secondself, personal-ai-second-brain, note-taking, knowledge-management<br/><b>Summary:</b> A goal-oriented project to build an end-to-end system for capturing, organizing, and retrieving knowledge using AI and natural language processing."
+    },
+    {
+      "id": "20260805_013533_6d57b5",
+      "label": "phase 5 rag retrieval test note",
+      "category": "Projects",
+      "shape": "diamond",
+      "tags": [
+        "microservices",
+        "python",
+        "grpc",
+        "vector-similarity-search"
+      ],
+      "summary": "A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search.",
+      "color": "#F59E0B",
+      "value": 10,
+      "degree": 0,
+      "title": "<b>phase 5 rag retrieval test note</b><br/><b>Category:</b> Projects<br/><b>Tags:</b> microservices, python, grpc, vector-similarity-search<br/><b>Summary:</b> A test note for phase 5 RAG retrieval, focusing on building microservices with Python, gRPC, and vector similarity search."
     },
     {
       "id": "20260801_031242_5dbc1",
-      "label": "Designing resilient backend services with Python, gRPC micro",
+      "label": "Microservices architecture in Python using gRPC, REST APIs",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1342,7 +1410,7 @@
       "color": "#10B981",
       "value": 35,
       "degree": 5,
-      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> llm, ai, ollama, quantization<br/><b>Summary:</b> Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp."
+      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> llm, ai, ollama, quantization<br/><b>Summary:</b> Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp."
     },
     {
       "id": "20260801_035742_e755a",
@@ -1357,8 +1425,8 @@
       ],
       "summary": "Best practices for asynchronous request handling and background worker queues in FastAPI.",
       "color": "#10B981",
-      "value": 40,
-      "degree": 6,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> fastapi, python, async, web<br/><b>Summary:</b> Best practices for asynchronous request handling and background worker queues in FastAPI."
     },
     {
@@ -1429,7 +1497,7 @@
     },
     {
       "id": "20260801_074243_ba30e",
-      "label": "Microservices architecture in Python using gRPC, REST APIs",
+      "label": "Designing resilient backend services with Python, gRPC micro",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1439,9 +1507,9 @@
       ],
       "summary": "Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python.",
       "color": "#10B981",
-      "value": 45,
-      "degree": 7,
-      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, embeddings, microservices<br/><b>Summary:</b> Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python."
+      "value": 50,
+      "degree": 8,
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, embeddings, microservices<br/><b>Summary:</b> Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python."
     },
     {
       "id": "20260801_094244_c2bd6",
@@ -1488,8 +1556,8 @@
       ],
       "summary": "Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp. (Module variation 2)",
       "color": "#10B981",
-      "value": 40,
-      "degree": 6,
+      "value": 45,
+      "degree": 7,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> llm, ai, ollama, quantization<br/><b>Summary:</b> Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp. (Module variation 2)"
     },
     {
@@ -1505,13 +1573,13 @@
       ],
       "summary": "Best practices for asynchronous request handling and background worker queues in FastAPI. (Module variation 2)",
       "color": "#10B981",
-      "value": 50,
-      "degree": 8,
+      "value": 75,
+      "degree": 13,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> fastapi, python, async, web<br/><b>Summary:</b> Best practices for asynchronous request handling and background worker queues in FastAPI. (Module variation 2)"
     },
     {
       "id": "20260801_121248_f33a8",
-      "label": "SecondSelf Project",
+      "label": "Designing resilient backend services with Python, gRPC micro",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1522,9 +1590,9 @@
       ],
       "summary": "Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases. (Module variation 2)",
       "color": "#10B981",
-      "value": 45,
-      "degree": 7,
-      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> vector-database, ai, chromadb, qdrant<br/><b>Summary:</b> Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases. (Module variation 2)"
+      "value": 40,
+      "degree": 6,
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> vector-database, ai, chromadb, qdrant<br/><b>Summary:</b> Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases. (Module variation 2)"
     },
     {
       "id": "20260801_124248_355db",
@@ -1555,8 +1623,8 @@
       ],
       "summary": "Configuring Horizontal Pod Autoscaler (HPA) and setting CPU/Memory request boundaries. (Module variation 2)",
       "color": "#10B981",
-      "value": 40,
-      "degree": 6,
+      "value": 35,
+      "degree": 5,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> kubernetes, k8s, devops, cloud<br/><b>Summary:</b> Configuring Horizontal Pod Autoscaler (HPA) and setting CPU/Memory request boundaries. (Module variation 2)"
     },
     {
@@ -1571,8 +1639,8 @@
       ],
       "summary": "Reusable workflow configuration for automated testing, linting, and Docker container deployment. (Module variation 2)",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 45,
+      "degree": 7,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> devops, github-actions, ci-cd<br/><b>Summary:</b> Reusable workflow configuration for automated testing, linting, and Docker container deployment. (Module variation 2)"
     },
     {
@@ -1587,8 +1655,8 @@
       ],
       "summary": "Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python. (Module variation 2)",
       "color": "#10B981",
-      "value": 90,
-      "degree": 16,
+      "value": 100,
+      "degree": 18,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, embeddings, microservices<br/><b>Summary:</b> Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python. (Module variation 2)"
     },
     {
@@ -1603,8 +1671,8 @@
       ],
       "summary": "Key takeaways on reliable, scalable, and maintainable distributed system architectures. (Module variation 2)",
       "color": "#10B981",
-      "value": 55,
-      "degree": 9,
+      "value": 65,
+      "degree": 11,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> books, architecture, distributed-systems<br/><b>Summary:</b> Key takeaways on reliable, scalable, and maintainable distributed system architectures. (Module variation 2)"
     },
     {
@@ -1625,7 +1693,7 @@
     },
     {
       "id": "20260801_181251_b3b6d",
-      "label": "SecondSelf Project",
+      "label": "Python Microservices and Vector Embeddings Guide (Part 3)",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1638,7 +1706,7 @@
       "color": "#10B981",
       "value": 35,
       "degree": 5,
-      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> llm, ai, ollama, quantization<br/><b>Summary:</b> Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp. (Module variation 3)"
+      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 3)</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> llm, ai, ollama, quantization<br/><b>Summary:</b> Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp. (Module variation 3)"
     },
     {
       "id": "20260801_185752_569f8",
@@ -1653,13 +1721,13 @@
       ],
       "summary": "Best practices for asynchronous request handling and background worker queues in FastAPI. (Module variation 3)",
       "color": "#10B981",
-      "value": 50,
-      "degree": 8,
+      "value": 55,
+      "degree": 9,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> fastapi, python, async, web<br/><b>Summary:</b> Best practices for asynchronous request handling and background worker queues in FastAPI. (Module variation 3)"
     },
     {
       "id": "20260801_194252_2d214",
-      "label": "SecondSelf Project",
+      "label": "Designing resilient backend services with Python, gRPC micro",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1670,9 +1738,9 @@
       ],
       "summary": "Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases. (Module variation 3)",
       "color": "#10B981",
-      "value": 45,
-      "degree": 7,
-      "title": "<b>SecondSelf Project</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> vector-database, ai, chromadb, qdrant<br/><b>Summary:</b> Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases. (Module variation 3)"
+      "value": 40,
+      "degree": 6,
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> vector-database, ai, chromadb, qdrant<br/><b>Summary:</b> Benchmarking indexing speed, HNSW recall accuracy, and memory overhead across vector databases. (Module variation 3)"
     },
     {
       "id": "20260801_201253_61a45",
@@ -1709,7 +1777,7 @@
     },
     {
       "id": "20260801_222754_f33db",
-      "label": "Python Microservices and Vector Embeddings Guide (Part 2)",
+      "label": "Microservices architecture in Python using gRPC, REST APIs",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1721,11 +1789,11 @@
       "color": "#10B981",
       "value": 35,
       "degree": 5,
-      "title": "<b>Python Microservices and Vector Embeddings Guide (Part 2)</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> devops, github-actions, ci-cd<br/><b>Summary:</b> Reusable workflow configuration for automated testing, linting, and Docker container deployment. (Module variation 3)"
+      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> devops, github-actions, ci-cd<br/><b>Summary:</b> Reusable workflow configuration for automated testing, linting, and Docker container deployment. (Module variation 3)"
     },
     {
       "id": "20260801_224254_cf13f",
-      "label": "Microservices architecture in Python using gRPC, REST APIs",
+      "label": "Designing resilient backend services with Python, gRPC micro",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1735,9 +1803,9 @@
       ],
       "summary": "Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python. (Module variation 3)",
       "color": "#10B981",
-      "value": 95,
-      "degree": 17,
-      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, embeddings, microservices<br/><b>Summary:</b> Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python. (Module variation 3)"
+      "value": 80,
+      "degree": 14,
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, embeddings, microservices<br/><b>Summary:</b> Comprehensive reference guide to building vector embeddings and similarity search pipelines in Python. (Module variation 3)"
     },
     {
       "id": "20260802_004255_497fe",
@@ -1757,7 +1825,7 @@
     },
     {
       "id": "20260802_005755_b3ebd",
-      "label": "Microservices architecture in Python using gRPC, REST APIs",
+      "label": "Designing resilient backend services with Python, gRPC micro",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1769,11 +1837,11 @@
       "color": "#10B981",
       "value": 35,
       "degree": 5,
-      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, web-scraping, html<br/><b>Summary:</b> Handling dynamic web pages, user-agent headers, proxy rotation, and clean HTML text extraction. (Module variation 3)"
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, web-scraping, html<br/><b>Summary:</b> Handling dynamic web pages, user-agent headers, proxy rotation, and clean HTML text extraction. (Module variation 3)"
     },
     {
       "id": "20260802_014256_bded6",
-      "label": "Designing resilient backend services with Python, gRPC micro",
+      "label": "Microservices architecture in Python using gRPC, REST APIs",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -1786,7 +1854,7 @@
       "color": "#10B981",
       "value": 35,
       "degree": 5,
-      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> llm, ai, ollama, quantization<br/><b>Summary:</b> Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp. (Module variation 4)"
+      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> llm, ai, ollama, quantization<br/><b>Summary:</b> Running Llama-3 and Mistral models locally using 4-bit GGUF quantization and llama.cpp. (Module variation 4)"
     },
     {
       "id": "20260805_010928_473eb4",
@@ -1800,8 +1868,8 @@
       ],
       "summary": "A domain for use in documentation examples without needing permission.",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Documentation Examples Domain</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> documentation, domain, example<br/><b>Summary:</b> A domain for use in documentation examples without needing permission."
     },
     {
@@ -1818,8 +1886,8 @@
       ],
       "summary": "A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching.",
       "color": "#10B981",
-      "value": 115,
-      "degree": 21,
+      "value": 45,
+      "degree": 7,
       "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, rest, microservices, architecture<br/><b>Summary:</b> A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching."
     },
     {
@@ -1835,8 +1903,8 @@
       ],
       "summary": "A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems.",
       "color": "#10B981",
-      "value": 70,
-      "degree": 12,
+      "value": 75,
+      "degree": 13,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, microservices, distributed-systems<br/><b>Summary:</b> A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems."
     },
     {
@@ -1851,8 +1919,8 @@
       ],
       "summary": "A domain for use in documentation examples without needing permission.",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Documentation Examples Domain</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> documentation, examples, domain<br/><b>Summary:</b> A domain for use in documentation examples without needing permission."
     },
     {
@@ -1870,8 +1938,8 @@
       ],
       "summary": "A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching.",
       "color": "#10B981",
-      "value": 75,
-      "degree": 13,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> microservices, python, grpc, rest, api, distributed-caching<br/><b>Summary:</b> A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching."
     },
     {
@@ -1903,8 +1971,8 @@
       ],
       "summary": "A domain for use in documentation examples without needing permission.",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Documentation Examples Domain</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> documentation, examples, domain<br/><b>Summary:</b> A domain for use in documentation examples without needing permission."
     },
     {
@@ -1920,8 +1988,8 @@
       ],
       "summary": "A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems.",
       "color": "#10B981",
-      "value": 40,
-      "degree": 6,
+      "value": 45,
+      "degree": 7,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, microservices, distributed-systems<br/><b>Summary:</b> A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems."
     },
     {
@@ -1954,8 +2022,8 @@
       ],
       "summary": "A domain for use in documentation examples without needing permission.",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Documentation Examples Domain</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> documentation, domain, examples<br/><b>Summary:</b> A domain for use in documentation examples without needing permission."
     },
     {
@@ -1971,8 +2039,8 @@
       ],
       "summary": "A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems.",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, microservices, distributed-systems<br/><b>Summary:</b> A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems."
     },
     {
@@ -1989,8 +2057,8 @@
       ],
       "summary": "An overview of implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching.",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> microservices, python, grpc, rest, distributed-caching<br/><b>Summary:</b> An overview of implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching."
     },
     {
@@ -2005,8 +2073,8 @@
       ],
       "summary": "A domain for use in documentation examples without needing permission.",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Documentation Examples Domain</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> documentation, examples, domain<br/><b>Summary:</b> A domain for use in documentation examples without needing permission."
     },
     {
@@ -2022,8 +2090,8 @@
       ],
       "summary": "A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems.",
       "color": "#10B981",
-      "value": 50,
-      "degree": 8,
+      "value": 45,
+      "degree": 7,
       "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, microservices, distributed-systems<br/><b>Summary:</b> A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems."
     },
     {
@@ -2040,13 +2108,13 @@
       ],
       "summary": "An overview of implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching.",
       "color": "#10B981",
-      "value": 35,
-      "degree": 5,
+      "value": 40,
+      "degree": 6,
       "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, microservices, grpc, rest-apis, distributed-caching<br/><b>Summary:</b> An overview of implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching."
     },
     {
       "id": "20260805_012909_291e37",
-      "label": "Designing resilient backend services with Python, gRPC micro",
+      "label": "Documentation Examples Domain",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -2058,11 +2126,11 @@
       "color": "#10B981",
       "value": 35,
       "degree": 5,
-      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> documentation, domain, examples<br/><b>Summary:</b> A domain for use in documentation examples without needing permission."
+      "title": "<b>Documentation Examples Domain</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> documentation, domain, examples<br/><b>Summary:</b> A domain for use in documentation examples without needing permission."
     },
     {
       "id": "20260805_012933_0a49b4",
-      "label": "Microservices architecture in Python using gRPC, REST APIs",
+      "label": "Designing resilient backend services with Python, gRPC micro",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -2073,13 +2141,13 @@
       ],
       "summary": "A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems.",
       "color": "#10B981",
-      "value": 50,
-      "degree": 8,
-      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, microservices, distributed-systems<br/><b>Summary:</b> A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems."
+      "value": 70,
+      "degree": 12,
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, microservices, distributed-systems<br/><b>Summary:</b> A guide on designing resilient backend services using Python, gRPC microservices, and distributed systems."
     },
     {
       "id": "20260805_012933_0a6efc",
-      "label": "Designing resilient backend services with Python, gRPC micro",
+      "label": "Microservices architecture in Python using gRPC, REST APIs",
       "category": "Resources",
       "shape": "dot",
       "tags": [
@@ -2092,9 +2160,60 @@
       ],
       "summary": "A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching.",
       "color": "#10B981",
+      "value": 70,
+      "degree": 12,
+      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> microservices, python, grpc, rest, api, distributed-caching<br/><b>Summary:</b> A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching."
+    },
+    {
+      "id": "20260805_013420_7497c7",
+      "label": "Documentation Examples Domain",
+      "category": "Resources",
+      "shape": "dot",
+      "tags": [
+        "documentation",
+        "examples",
+        "domain"
+      ],
+      "summary": "A domain for use in documentation examples without needing permission.",
+      "color": "#10B981",
       "value": 35,
       "degree": 5,
-      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> microservices, python, grpc, rest, api, distributed-caching<br/><b>Summary:</b> A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching."
+      "title": "<b>Documentation Examples Domain</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> documentation, examples, domain<br/><b>Summary:</b> A domain for use in documentation examples without needing permission."
+    },
+    {
+      "id": "20260805_013432_51eb35",
+      "label": "Designing resilient backend services with Python, gRPC micro",
+      "category": "Resources",
+      "shape": "dot",
+      "tags": [
+        "python",
+        "grpc",
+        "microservices",
+        "distributed-systems"
+      ],
+      "summary": "A guide to designing resilient backend services using Python, gRPC microservices, and distributed systems.",
+      "color": "#10B981",
+      "value": 40,
+      "degree": 6,
+      "title": "<b>Designing resilient backend services with Python, gRPC micro</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, microservices, distributed-systems<br/><b>Summary:</b> A guide to designing resilient backend services using Python, gRPC microservices, and distributed systems."
+    },
+    {
+      "id": "20260805_013432_fa5c59",
+      "label": "Microservices architecture in Python using gRPC, REST APIs",
+      "category": "Resources",
+      "shape": "dot",
+      "tags": [
+        "python",
+        "grpc",
+        "rest",
+        "microservices",
+        "distributed-caching"
+      ],
+      "summary": "A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching.",
+      "color": "#10B981",
+      "value": 45,
+      "degree": 7,
+      "title": "<b>Microservices architecture in Python using gRPC, REST APIs</b><br/><b>Category:</b> Resources<br/><b>Tags:</b> python, grpc, rest, microservices, distributed-caching<br/><b>Summary:</b> A guide to implementing microservices architecture in Python using gRPC, REST APIs, and distributed caching."
     }
   ],
   "edges": [
@@ -2466,6 +2585,12 @@
     },
     {
       "from": "20260801_042742_ab071",
+      "to": "20260801_132748_642f4",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
+      "from": "20260801_042742_ab071",
       "to": "20260801_195752_33d00",
       "weight": 0.71,
       "title": "Similarity: 71%"
@@ -2475,12 +2600,6 @@
       "to": "20260801_205753_8f2e9",
       "weight": 0.71,
       "title": "Similarity: 71%"
-    },
-    {
-      "from": "20260801_042742_ab071",
-      "to": "20260801_045742_4db0a",
-      "weight": 0.7,
-      "title": "Similarity: 70%"
     },
     {
       "from": "20260801_045742_4db0a",
@@ -2496,67 +2615,7 @@
     },
     {
       "from": "20260801_045742_4db0a",
-      "to": "20260801_165750_5b75a",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
-    },
-    {
-      "from": "20260801_045742_4db0a",
-      "to": "20260802_002755_57ac8",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
-    },
-    {
-      "from": "20260801_045742_4db0a",
       "to": "20260801_205753_8f2e9",
-      "weight": 0.74,
-      "title": "Similarity: 74%"
-    },
-    {
-      "from": "20260801_054243_b9c75",
-      "to": "20260801_131248_d14a5",
-      "weight": 0.95,
-      "title": "Similarity: 95%"
-    },
-    {
-      "from": "20260801_054243_b9c75",
-      "to": "20260801_204253_8fbfb",
-      "weight": 0.95,
-      "title": "Similarity: 95%"
-    },
-    {
-      "from": "20260801_054243_b9c75",
-      "to": "20260801_061243_b9ec6",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
-    },
-    {
-      "from": "20260801_054243_b9c75",
-      "to": "20260801_134249_e8c4e",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
-    },
-    {
-      "from": "20260801_054243_b9c75",
-      "to": "20260801_211253_26d06",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
-    },
-    {
-      "from": "20260801_055743_45e49",
-      "to": "20260801_205753_8f2e9",
-      "weight": 0.99,
-      "title": "Similarity: 99%"
-    },
-    {
-      "from": "20260801_055743_45e49",
-      "to": "20260801_132748_642f4",
-      "weight": 0.95,
-      "title": "Similarity: 95%"
-    },
-    {
-      "from": "20260801_055743_45e49",
-      "to": "20260801_195752_33d00",
       "weight": 0.74,
       "title": "Similarity: 74%"
     },
@@ -2567,6 +2626,60 @@
       "title": "Similarity: 73%"
     },
     {
+      "from": "20260801_045742_4db0a",
+      "to": "20260801_065743_b1c0a",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
+    },
+    {
+      "from": "20260801_054243_b9c75",
+      "to": "20260801_131248_d14a5",
+      "weight": 0.96,
+      "title": "Similarity: 96%"
+    },
+    {
+      "from": "20260801_054243_b9c75",
+      "to": "20260801_204253_8fbfb",
+      "weight": 0.95,
+      "title": "Similarity: 95%"
+    },
+    {
+      "from": "20260801_054243_b9c75",
+      "to": "20260801_061243_b9ec6",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_054243_b9c75",
+      "to": "20260801_134249_e8c4e",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_054243_b9c75",
+      "to": "20260801_211253_26d06",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_055743_45e49",
+      "to": "20260801_132748_642f4",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260801_055743_45e49",
+      "to": "20260801_205753_8f2e9",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260801_055743_45e49",
+      "to": "20260801_195752_33d00",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
       "from": "20260801_055743_45e49",
       "to": "20260801_122748_683a0",
       "weight": 0.73,
@@ -2575,38 +2688,32 @@
     {
       "from": "20260801_065743_b1c0a",
       "to": "20260801_142749_2f489",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
-    },
-    {
-      "from": "20260801_065743_b1c0a",
-      "to": "20260801_215754_c5f90",
       "weight": 0.96,
       "title": "Similarity: 96%"
     },
     {
       "from": "20260801_065743_b1c0a",
-      "to": "20260801_092744_8953c",
-      "weight": 0.66,
-      "title": "Similarity: 66%"
+      "to": "20260801_215754_c5f90",
+      "weight": 0.95,
+      "title": "Similarity: 95%"
     },
     {
       "from": "20260801_065743_b1c0a",
-      "to": "20260801_165750_5b75a",
-      "weight": 0.66,
-      "title": "Similarity: 66%"
+      "to": "20260801_122748_683a0",
+      "weight": 0.72,
+      "title": "Similarity: 72%"
     },
     {
       "from": "20260801_065743_b1c0a",
-      "to": "20260802_002755_57ac8",
-      "weight": 0.66,
-      "title": "Similarity: 66%"
+      "to": "20260801_195752_33d00",
+      "weight": 0.72,
+      "title": "Similarity: 72%"
     },
     {
       "from": "20260801_071243_658b8",
       "to": "20260801_144249_bdf00",
-      "weight": 0.92,
-      "title": "Similarity: 92%"
+      "weight": 0.93,
+      "title": "Similarity: 93%"
     },
     {
       "from": "20260801_071243_658b8",
@@ -2617,14 +2724,14 @@
     {
       "from": "20260801_071243_658b8",
       "to": "20260801_161250_3abf2",
-      "weight": 0.75,
-      "title": "Similarity: 75%"
+      "weight": 0.74,
+      "title": "Similarity: 74%"
     },
     {
       "from": "20260801_071243_658b8",
       "to": "20260801_234255_252af",
-      "weight": 0.75,
-      "title": "Similarity: 75%"
+      "weight": 0.74,
+      "title": "Similarity: 74%"
     },
     {
       "from": "20260801_071243_658b8",
@@ -2635,38 +2742,38 @@
     {
       "from": "20260801_082744_b0f17",
       "to": "20260801_155750_8bd4c",
-      "weight": 0.94,
-      "title": "Similarity: 94%"
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_082744_b0f17",
       "to": "20260801_232755_562d0",
-      "weight": 0.91,
-      "title": "Similarity: 91%"
+      "weight": 0.9,
+      "title": "Similarity: 90%"
+    },
+    {
+      "from": "20260801_082744_b0f17",
+      "to": "20260801_171251_4e415",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_082744_b0f17",
+      "to": "20260802_004255_497fe",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
     },
     {
       "from": "20260801_082744_b0f17",
       "to": "20260801_112748_66ebd",
-      "weight": 0.68,
-      "title": "Similarity: 68%"
-    },
-    {
-      "from": "20260801_082744_b0f17",
-      "to": "20260801_185752_569f8",
-      "weight": 0.68,
-      "title": "Similarity: 68%"
-    },
-    {
-      "from": "20260801_082744_b0f17",
-      "to": "20260801_151249_8ecd8",
-      "weight": 0.67,
-      "title": "Similarity: 67%"
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
       "from": "20260801_091244_acb6b",
       "to": "20260802_001255_67bbb",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_091244_acb6b",
@@ -2676,21 +2783,21 @@
     },
     {
       "from": "20260801_091244_acb6b",
-      "to": "20260805_012913_e152fd",
-      "weight": 0.69,
-      "title": "Similarity: 69%"
-    },
-    {
-      "from": "20260801_091244_acb6b",
-      "to": "20260801_132748_642f4",
+      "to": "20260805_010930_7ef5bf",
       "weight": 0.68,
       "title": "Similarity: 68%"
     },
     {
-      "from": "20260801_084244_6682c",
-      "to": "20260801_091244_acb6b",
-      "weight": 0.67,
-      "title": "Similarity: 67%"
+      "from": "20260801_091244_acb6b",
+      "to": "20260805_011009_697b3a",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_091244_acb6b",
+      "to": "20260805_011926_f2d2c4",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
     },
     {
       "from": "20260801_115748_52afc",
@@ -2724,15 +2831,9 @@
     },
     {
       "from": "20260801_122748_683a0",
-      "to": "20260801_165750_5b75a",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
-    },
-    {
-      "from": "20260801_122748_683a0",
-      "to": "20260802_002755_57ac8",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
+      "to": "20260801_132748_642f4",
+      "weight": 0.75,
+      "title": "Similarity: 75%"
     },
     {
       "from": "20260801_122748_683a0",
@@ -2754,39 +2855,33 @@
     },
     {
       "from": "20260801_131248_d14a5",
-      "to": "20260801_195752_33d00",
+      "to": "20260801_132748_642f4",
       "weight": 0.71,
       "title": "Similarity: 71%"
     },
     {
       "from": "20260801_131248_d14a5",
-      "to": "20260801_205753_8f2e9",
+      "to": "20260801_195752_33d00",
       "weight": 0.71,
       "title": "Similarity: 71%"
     },
     {
       "from": "20260801_132748_642f4",
       "to": "20260801_205753_8f2e9",
-      "weight": 0.95,
-      "title": "Similarity: 95%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260801_132748_642f4",
-      "to": "20260801_161250_3abf2",
-      "weight": 0.73,
-      "title": "Similarity: 73%"
+      "to": "20260801_195752_33d00",
+      "weight": 0.75,
+      "title": "Similarity: 75%"
     },
     {
-      "from": "20260801_132748_642f4",
-      "to": "20260801_234255_252af",
-      "weight": 0.73,
-      "title": "Similarity: 73%"
-    },
-    {
-      "from": "20260801_122748_683a0",
+      "from": "20260801_045742_4db0a",
       "to": "20260801_132748_642f4",
-      "weight": 0.72,
-      "title": "Similarity: 72%"
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
       "from": "20260801_142749_2f489",
@@ -2807,10 +2902,10 @@
       "title": "Similarity: 71%"
     },
     {
-      "from": "20260801_045742_4db0a",
-      "to": "20260801_142749_2f489",
-      "weight": 0.7,
-      "title": "Similarity: 70%"
+      "from": "20260801_142749_2f489",
+      "to": "20260801_165750_5b75a",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
     },
     {
       "from": "20260801_144249_bdf00",
@@ -2819,34 +2914,34 @@
       "title": "Similarity: 100%"
     },
     {
+      "from": "20260801_094244_c2bd6",
+      "to": "20260801_144249_bdf00",
+      "weight": 0.76,
+      "title": "Similarity: 76%"
+    },
+    {
+      "from": "20260801_144249_bdf00",
+      "to": "20260801_151249_8ecd8",
+      "weight": 0.76,
+      "title": "Similarity: 76%"
+    },
+    {
       "from": "20260801_144249_bdf00",
       "to": "20260801_171251_4e415",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
-    },
-    {
-      "from": "20260801_144249_bdf00",
-      "to": "20260802_004255_497fe",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
-    },
-    {
-      "from": "20260801_144249_bdf00",
-      "to": "20260805_012555_51ee38",
       "weight": 0.76,
       "title": "Similarity: 76%"
     },
     {
       "from": "20260801_155750_8bd4c",
       "to": "20260801_232755_562d0",
-      "weight": 0.9,
-      "title": "Similarity: 90%"
+      "weight": 0.91,
+      "title": "Similarity: 91%"
     },
     {
       "from": "20260801_155750_8bd4c",
       "to": "20260801_171251_4e415",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
+      "weight": 0.77,
+      "title": "Similarity: 77%"
     },
     {
       "from": "20260801_155750_8bd4c",
@@ -2855,32 +2950,32 @@
       "title": "Similarity: 77%"
     },
     {
-      "from": "20260801_155750_8bd4c",
-      "to": "20260805_011019_20da3a",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
+      "from": "20260801_112748_66ebd",
+      "to": "20260801_155750_8bd4c",
+      "weight": 0.75,
+      "title": "Similarity: 75%"
     },
     {
       "from": "20260801_164250_6c87e",
       "to": "20260802_001255_67bbb",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "weight": 0.95,
+      "title": "Similarity: 95%"
     },
     {
       "from": "20260801_164250_6c87e",
-      "to": "20260805_010930_7ef5bf",
+      "to": "20260805_012913_e152fd",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
+    },
+    {
+      "from": "20260801_151249_8ecd8",
+      "to": "20260801_164250_6c87e",
       "weight": 0.66,
       "title": "Similarity: 66%"
     },
     {
       "from": "20260801_164250_6c87e",
-      "to": "20260805_011009_697b3a",
-      "weight": 0.66,
-      "title": "Similarity: 66%"
-    },
-    {
-      "from": "20260801_164250_6c87e",
-      "to": "20260805_012735_ef61b9",
+      "to": "20260801_224254_cf13f",
       "weight": 0.66,
       "title": "Similarity: 66%"
     },
@@ -2904,21 +2999,15 @@
     },
     {
       "from": "20260801_195752_33d00",
-      "to": "20260802_002755_57ac8",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
-    },
-    {
-      "from": "20260801_165750_5b75a",
-      "to": "20260801_195752_33d00",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
-    },
-    {
-      "from": "20260801_195752_33d00",
       "to": "20260801_205753_8f2e9",
       "weight": 0.76,
       "title": "Similarity: 76%"
+    },
+    {
+      "from": "20260801_132748_642f4",
+      "to": "20260801_204253_8fbfb",
+      "weight": 0.72,
+      "title": "Similarity: 72%"
     },
     {
       "from": "20260801_195752_33d00",
@@ -2933,12 +3022,6 @@
       "title": "Similarity: 72%"
     },
     {
-      "from": "20260801_122748_683a0",
-      "to": "20260801_204253_8fbfb",
-      "weight": 0.71,
-      "title": "Similarity: 71%"
-    },
-    {
       "from": "20260801_195752_33d00",
       "to": "20260801_215754_c5f90",
       "weight": 0.72,
@@ -2951,26 +3034,26 @@
       "title": "Similarity: 72%"
     },
     {
-      "from": "20260801_122748_683a0",
+      "from": "20260801_165750_5b75a",
       "to": "20260801_215754_c5f90",
-      "weight": 0.71,
-      "title": "Similarity: 71%"
+      "weight": 0.72,
+      "title": "Similarity: 72%"
     },
     {
-      "from": "20260801_171251_4e415",
+      "from": "20260801_094244_c2bd6",
       "to": "20260801_221254_4e70f",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
+      "weight": 0.76,
+      "title": "Similarity: 76%"
+    },
+    {
+      "from": "20260801_151249_8ecd8",
+      "to": "20260801_221254_4e70f",
+      "weight": 0.76,
+      "title": "Similarity: 76%"
     },
     {
       "from": "20260801_221254_4e70f",
-      "to": "20260802_004255_497fe",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
-    },
-    {
-      "from": "20260801_221254_4e70f",
-      "to": "20260805_012555_51ee38",
+      "to": "20260801_224254_cf13f",
       "weight": 0.76,
       "title": "Similarity: 76%"
     },
@@ -2993,22 +3076,22 @@
       "title": "Similarity: 76%"
     },
     {
-      "from": "20260801_054243_b9c75",
-      "to": "20260802_001255_67bbb",
-      "weight": 0.64,
-      "title": "Similarity: 64%"
+      "from": "20260802_001255_67bbb",
+      "to": "20260805_010930_7ef5bf",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
     },
     {
-      "from": "20260801_122748_683a0",
-      "to": "20260802_001255_67bbb",
-      "weight": 0.64,
-      "title": "Similarity: 64%"
+      "from": "20260802_001255_67bbb",
+      "to": "20260805_011009_697b3a",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
     },
     {
-      "from": "20260801_132748_642f4",
-      "to": "20260802_001255_67bbb",
-      "weight": 0.64,
-      "title": "Similarity: 64%"
+      "from": "20260802_001255_67bbb",
+      "to": "20260805_011926_f2d2c4",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
     },
     {
       "from": "20260801_025742_a440e",
@@ -3030,15 +3113,15 @@
     },
     {
       "from": "20260801_025742_a440e",
-      "to": "20260801_205753_8f2e9",
+      "to": "20260801_132748_642f4",
       "weight": 0.66,
       "title": "Similarity: 66%"
     },
     {
       "from": "20260801_025742_a440e",
-      "to": "20260801_055743_45e49",
-      "weight": 0.65,
-      "title": "Similarity: 65%"
+      "to": "20260801_205753_8f2e9",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
     },
     {
       "from": "20260801_041242_8a496",
@@ -3073,50 +3156,44 @@
     {
       "from": "20260801_061243_b9ec6",
       "to": "20260801_134249_e8c4e",
-      "weight": 0.99,
-      "title": "Similarity: 99%"
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260801_061243_b9ec6",
       "to": "20260801_211253_26d06",
-      "weight": 0.99,
-      "title": "Similarity: 99%"
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260801_061243_b9ec6",
       "to": "20260805_011926_f2d2c4",
-      "weight": 0.87,
-      "title": "Similarity: 87%"
+      "weight": 0.9,
+      "title": "Similarity: 90%"
     },
     {
       "from": "20260801_061243_b9ec6",
       "to": "20260805_012502_d96ec4",
-      "weight": 0.86,
-      "title": "Similarity: 86%"
+      "weight": 0.88,
+      "title": "Similarity: 88%"
     },
     {
       "from": "20260801_061243_b9ec6",
       "to": "20260805_012913_e152fd",
-      "weight": 0.86,
-      "title": "Similarity: 86%"
+      "weight": 0.87,
+      "title": "Similarity: 87%"
+    },
+    {
+      "from": "20260801_062743_1da6f",
+      "to": "20260801_135749_29cca",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_062743_1da6f",
       "to": "20260801_212753_8b93b",
       "weight": 0.99,
       "title": "Similarity: 99%"
-    },
-    {
-      "from": "20260801_062743_1da6f",
-      "to": "20260801_135749_29cca",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
-    },
-    {
-      "from": "20260801_062743_1da6f",
-      "to": "20260801_092744_8953c",
-      "weight": 0.67,
-      "title": "Similarity: 67%"
     },
     {
       "from": "20260801_062743_1da6f",
@@ -3131,16 +3208,28 @@
       "title": "Similarity: 66%"
     },
     {
+      "from": "20260801_042742_ab071",
+      "to": "20260801_062743_1da6f",
+      "weight": 0.65,
+      "title": "Similarity: 65%"
+    },
+    {
+      "from": "20260801_084244_6682c",
+      "to": "20260801_234255_252af",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
       "from": "20260801_084244_6682c",
       "to": "20260801_161250_3abf2",
       "weight": 0.97,
       "title": "Similarity: 97%"
     },
     {
-      "from": "20260801_084244_6682c",
-      "to": "20260801_234255_252af",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "from": "20260801_061243_b9ec6",
+      "to": "20260801_084244_6682c",
+      "weight": 0.8,
+      "title": "Similarity: 80%"
     },
     {
       "from": "20260801_084244_6682c",
@@ -3149,16 +3238,16 @@
       "title": "Similarity: 79%"
     },
     {
-      "from": "20260801_061243_b9ec6",
-      "to": "20260801_084244_6682c",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
-    },
-    {
       "from": "20260801_084244_6682c",
       "to": "20260801_134249_e8c4e",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "weight": 0.78,
+      "title": "Similarity: 78%"
+    },
+    {
+      "from": "20260801_085744_bdcf0",
+      "to": "20260801_162750_4d5e5",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_085744_bdcf0",
@@ -3168,13 +3257,13 @@
     },
     {
       "from": "20260801_085744_bdcf0",
-      "to": "20260801_162750_4d5e5",
-      "weight": 0.95,
-      "title": "Similarity: 95%"
+      "to": "20260801_112748_66ebd",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
     },
     {
       "from": "20260801_085744_bdcf0",
-      "to": "20260805_010939_08d558",
+      "to": "20260801_185752_569f8",
       "weight": 0.74,
       "title": "Similarity: 74%"
     },
@@ -3185,40 +3274,34 @@
       "title": "Similarity: 74%"
     },
     {
-      "from": "20260801_085744_bdcf0",
-      "to": "20260805_011019_20da3a",
-      "weight": 0.74,
-      "title": "Similarity: 74%"
-    },
-    {
       "from": "20260801_092744_8953c",
       "to": "20260801_165750_5b75a",
-      "weight": 0.93,
-      "title": "Similarity: 93%"
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_092744_8953c",
       "to": "20260802_002755_57ac8",
-      "weight": 0.93,
-      "title": "Similarity: 93%"
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_092744_8953c",
-      "to": "20260801_212753_8b93b",
+      "to": "20260801_215754_c5f90",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
+      "from": "20260801_092744_8953c",
+      "to": "20260801_142749_2f489",
       "weight": 0.7,
       "title": "Similarity: 70%"
     },
     {
-      "from": "20260801_092744_8953c",
-      "to": "20260801_135749_29cca",
-      "weight": 0.68,
-      "title": "Similarity: 68%"
-    },
-    {
-      "from": "20260801_042742_ab071",
+      "from": "20260801_045742_4db0a",
       "to": "20260801_092744_8953c",
-      "weight": 0.67,
-      "title": "Similarity: 67%"
+      "weight": 0.69,
+      "title": "Similarity: 69%"
     },
     {
       "from": "20260801_102745_1e282",
@@ -3234,15 +3317,15 @@
     },
     {
       "from": "20260801_102745_1e282",
-      "to": "20260801_205753_8f2e9",
+      "to": "20260801_132748_642f4",
       "weight": 0.68,
       "title": "Similarity: 68%"
     },
     {
-      "from": "20260801_055743_45e49",
-      "to": "20260801_102745_1e282",
-      "weight": 0.65,
-      "title": "Similarity: 65%"
+      "from": "20260801_102745_1e282",
+      "to": "20260801_205753_8f2e9",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
     },
     {
       "from": "20260801_114248_6292d",
@@ -3276,39 +3359,45 @@
     },
     {
       "from": "20260801_134249_e8c4e",
+      "to": "20260805_012913_e152fd",
+      "weight": 0.89,
+      "title": "Similarity: 89%"
+    },
+    {
+      "from": "20260801_134249_e8c4e",
       "to": "20260805_011926_f2d2c4",
-      "weight": 0.87,
-      "title": "Similarity: 87%"
+      "weight": 0.88,
+      "title": "Similarity: 88%"
     },
     {
       "from": "20260801_134249_e8c4e",
       "to": "20260805_012502_d96ec4",
-      "weight": 0.87,
-      "title": "Similarity: 87%"
-    },
-    {
-      "from": "20260801_134249_e8c4e",
-      "to": "20260805_010930_7ef5bf",
       "weight": 0.85,
       "title": "Similarity: 85%"
     },
     {
       "from": "20260801_135749_29cca",
       "to": "20260801_212753_8b93b",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260801_115748_52afc",
       "to": "20260801_135749_29cca",
-      "weight": 0.64,
-      "title": "Similarity: 64%"
+      "weight": 0.69,
+      "title": "Similarity: 69%"
     },
     {
       "from": "20260801_135749_29cca",
       "to": "20260801_192752_2582a",
-      "weight": 0.64,
-      "title": "Similarity: 64%"
+      "weight": 0.68,
+      "title": "Similarity: 68%"
+    },
+    {
+      "from": "20260801_042742_ab071",
+      "to": "20260801_135749_29cca",
+      "weight": 0.66,
+      "title": "Similarity: 66%"
     },
     {
       "from": "20260801_161250_3abf2",
@@ -3317,46 +3406,46 @@
       "title": "Similarity: 100%"
     },
     {
-      "from": "20260801_161250_3abf2",
-      "to": "20260805_012913_e152fd",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
-    },
-    {
-      "from": "20260801_161250_3abf2",
-      "to": "20260801_181251_b3b6d",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
+      "from": "20260801_061243_b9ec6",
+      "to": "20260801_161250_3abf2",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
     },
     {
       "from": "20260801_134249_e8c4e",
       "to": "20260801_161250_3abf2",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
+      "weight": 0.79,
+      "title": "Similarity: 79%"
+    },
+    {
+      "from": "20260801_161250_3abf2",
+      "to": "20260801_211253_26d06",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
     },
     {
       "from": "20260801_162750_4d5e5",
       "to": "20260801_235755_9bd7c",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
-      "from": "20260801_144249_bdf00",
+      "from": "20260801_162750_4d5e5",
+      "to": "20260805_011019_ccd20f",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_112748_66ebd",
       "to": "20260801_162750_4d5e5",
-      "weight": 0.69,
-      "title": "Similarity: 69%"
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
       "from": "20260801_162750_4d5e5",
-      "to": "20260801_221254_4e70f",
-      "weight": 0.69,
-      "title": "Similarity: 69%"
-    },
-    {
-      "from": "20260801_162750_4d5e5",
-      "to": "20260801_224254_cf13f",
-      "weight": 0.69,
-      "title": "Similarity: 69%"
+      "to": "20260801_185752_569f8",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
       "from": "20260801_165750_5b75a",
@@ -3365,22 +3454,34 @@
       "title": "Similarity: 100%"
     },
     {
+      "from": "20260801_165750_5b75a",
+      "to": "20260801_195752_33d00",
+      "weight": 0.72,
+      "title": "Similarity: 72%"
+    },
+    {
+      "from": "20260801_122748_683a0",
+      "to": "20260801_165750_5b75a",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
       "from": "20260801_175751_d84fd",
       "to": "20260802_012756_d1134",
       "weight": 1.0,
       "title": "Similarity: 100%"
     },
     {
-      "from": "20260801_175751_d84fd",
-      "to": "20260801_205753_8f2e9",
+      "from": "20260801_132748_642f4",
+      "to": "20260801_175751_d84fd",
       "weight": 0.68,
       "title": "Similarity: 68%"
     },
     {
-      "from": "20260801_055743_45e49",
-      "to": "20260801_175751_d84fd",
-      "weight": 0.65,
-      "title": "Similarity: 65%"
+      "from": "20260801_175751_d84fd",
+      "to": "20260801_205753_8f2e9",
+      "weight": 0.68,
+      "title": "Similarity: 68%"
     },
     {
       "from": "20260801_191252_8eb20",
@@ -3402,19 +3503,19 @@
     },
     {
       "from": "20260801_211253_26d06",
+      "to": "20260805_012913_e152fd",
+      "weight": 0.89,
+      "title": "Similarity: 89%"
+    },
+    {
+      "from": "20260801_211253_26d06",
       "to": "20260805_011926_f2d2c4",
-      "weight": 0.87,
-      "title": "Similarity: 87%"
+      "weight": 0.88,
+      "title": "Similarity: 88%"
     },
     {
       "from": "20260801_211253_26d06",
       "to": "20260805_012502_d96ec4",
-      "weight": 0.86,
-      "title": "Similarity: 86%"
-    },
-    {
-      "from": "20260801_211253_26d06",
-      "to": "20260805_010930_7ef5bf",
       "weight": 0.85,
       "title": "Similarity: 85%"
     },
@@ -3431,34 +3532,28 @@
       "title": "Similarity: 69%"
     },
     {
-      "from": "20260801_234255_252af",
-      "to": "20260805_012913_e152fd",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
+      "from": "20260801_042742_ab071",
+      "to": "20260801_212753_8b93b",
+      "weight": 0.67,
+      "title": "Similarity: 67%"
     },
     {
-      "from": "20260801_181251_b3b6d",
+      "from": "20260801_061243_b9ec6",
       "to": "20260801_234255_252af",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
+      "weight": 0.79,
+      "title": "Similarity: 79%"
+    },
+    {
+      "from": "20260801_134249_e8c4e",
+      "to": "20260801_234255_252af",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
     },
     {
       "from": "20260801_211253_26d06",
       "to": "20260801_234255_252af",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
-    },
-    {
-      "from": "20260801_185752_569f8",
-      "to": "20260801_235755_9bd7c",
-      "weight": 0.75,
-      "title": "Similarity: 75%"
-    },
-    {
-      "from": "20260801_235755_9bd7c",
-      "to": "20260805_010939_08d558",
-      "weight": 0.75,
-      "title": "Similarity: 75%"
+      "weight": 0.79,
+      "title": "Similarity: 79%"
     },
     {
       "from": "20260801_112748_66ebd",
@@ -3467,16 +3562,46 @@
       "title": "Similarity: 74%"
     },
     {
+      "from": "20260801_185752_569f8",
+      "to": "20260801_235755_9bd7c",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_235755_9bd7c",
+      "to": "20260805_012933_0a49b4",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_195752_33d00",
+      "to": "20260802_002755_57ac8",
+      "weight": 0.72,
+      "title": "Similarity: 72%"
+    },
+    {
+      "from": "20260801_215754_c5f90",
+      "to": "20260802_002755_57ac8",
+      "weight": 0.72,
+      "title": "Similarity: 72%"
+    },
+    {
+      "from": "20260801_045742_4db0a",
+      "to": "20260802_002755_57ac8",
+      "weight": 0.71,
+      "title": "Similarity: 71%"
+    },
+    {
       "from": "20260801_205753_8f2e9",
       "to": "20260802_012756_d1134",
       "weight": 0.68,
       "title": "Similarity: 68%"
     },
     {
-      "from": "20260801_055743_45e49",
+      "from": "20260801_132748_642f4",
       "to": "20260802_012756_d1134",
-      "weight": 0.65,
-      "title": "Similarity: 65%"
+      "weight": 0.67,
+      "title": "Similarity: 67%"
     },
     {
       "from": "20260805_010928_a618ce",
@@ -3504,9 +3629,9 @@
     },
     {
       "from": "20260805_010928_a618ce",
-      "to": "20260805_012909_5909f7",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "to": "20260805_013420_99420f",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260805_010930_7ef5bf",
@@ -3522,9 +3647,9 @@
     },
     {
       "from": "20260805_010930_7ef5bf",
-      "to": "20260805_011926_f2d2c4",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "to": "20260805_013422_f48a60",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260805_010930_7ef5bf",
@@ -3534,9 +3659,9 @@
     },
     {
       "from": "20260805_010930_7ef5bf",
-      "to": "20260805_012913_e152fd",
-      "weight": 0.94,
-      "title": "Similarity: 94%"
+      "to": "20260805_011926_f2d2c4",
+      "weight": 0.97,
+      "title": "Similarity: 97%"
     },
     {
       "from": "20260805_011007_7d1af9",
@@ -3558,37 +3683,43 @@
     },
     {
       "from": "20260805_011007_7d1af9",
-      "to": "20260805_012909_5909f7",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "to": "20260805_013420_99420f",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260805_011009_697b3a",
       "to": "20260805_012735_ef61b9",
       "weight": 1.0,
       "title": "Similarity: 100%"
+    },
+    {
+      "from": "20260805_011009_697b3a",
+      "to": "20260805_013422_f48a60",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260805_011009_697b3a",
+      "to": "20260805_012502_d96ec4",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260805_011009_697b3a",
       "to": "20260805_011926_f2d2c4",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
-    },
-    {
-      "from": "20260805_011009_697b3a",
-      "to": "20260805_012502_d96ec4",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
-    },
-    {
-      "from": "20260805_011009_697b3a",
-      "to": "20260805_012913_e152fd",
-      "weight": 0.94,
-      "title": "Similarity: 94%"
+      "weight": 0.97,
+      "title": "Similarity: 97%"
     },
     {
       "from": "20260805_011036_448561",
       "to": "20260805_012021_c77604",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
+    },
+    {
+      "from": "20260805_011036_448561",
+      "to": "20260805_012555_51ee38",
       "weight": 1.0,
       "title": "Similarity: 100%"
     },
@@ -3600,27 +3731,21 @@
     },
     {
       "from": "20260805_011036_448561",
-      "to": "20260805_012555_51ee38",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "to": "20260805_013055_5b512a",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_151249_8ecd8",
       "to": "20260805_011036_448561",
-      "weight": 0.81,
-      "title": "Similarity: 81%"
-    },
-    {
-      "from": "20260801_224254_cf13f",
-      "to": "20260805_011036_448561",
-      "weight": 0.81,
-      "title": "Similarity: 81%"
+      "weight": 0.88,
+      "title": "Similarity: 88%"
     },
     {
       "from": "20260805_011923_92d221",
       "to": "20260805_012459_a29019",
-      "weight": 0.99,
-      "title": "Similarity: 99%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011923_92d221",
@@ -3643,14 +3768,20 @@
     {
       "from": "20260805_011926_f2d2c4",
       "to": "20260805_012735_ef61b9",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "weight": 0.97,
+      "title": "Similarity: 97%"
     },
     {
       "from": "20260805_011926_f2d2c4",
-      "to": "20260805_012913_e152fd",
-      "weight": 0.92,
-      "title": "Similarity: 92%"
+      "to": "20260805_013422_f48a60",
+      "weight": 0.97,
+      "title": "Similarity: 97%"
+    },
+    {
+      "from": "20260805_012021_c77604",
+      "to": "20260805_012555_51ee38",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_012021_c77604",
@@ -3660,21 +3791,15 @@
     },
     {
       "from": "20260805_012021_c77604",
-      "to": "20260805_012555_51ee38",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "to": "20260805_013055_5b512a",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_151249_8ecd8",
       "to": "20260805_012021_c77604",
-      "weight": 0.81,
-      "title": "Similarity: 81%"
-    },
-    {
-      "from": "20260801_224254_cf13f",
-      "to": "20260805_012021_c77604",
-      "weight": 0.81,
-      "title": "Similarity: 81%"
+      "weight": 0.88,
+      "title": "Similarity: 88%"
     },
     {
       "from": "20260805_012459_a29019",
@@ -3684,7 +3809,7 @@
     },
     {
       "from": "20260805_012459_a29019",
-      "to": "20260805_012909_5909f7",
+      "to": "20260805_013420_99420f",
       "weight": 0.99,
       "title": "Similarity: 99%"
     },
@@ -3696,27 +3821,69 @@
     },
     {
       "from": "20260805_012502_d96ec4",
-      "to": "20260805_012913_e152fd",
-      "weight": 0.93,
-      "title": "Similarity: 93%"
+      "to": "20260805_013422_f48a60",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260805_012555_51ee38",
       "to": "20260805_012841_6949b6",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
-      "from": "20260801_074243_ba30e",
-      "to": "20260805_012555_51ee38",
-      "weight": 0.89,
-      "title": "Similarity: 89%"
+      "from": "20260805_012555_51ee38",
+      "to": "20260805_013055_5b512a",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_151249_8ecd8",
       "to": "20260805_012555_51ee38",
-      "weight": 0.89,
-      "title": "Similarity: 89%"
+      "weight": 0.9,
+      "title": "Similarity: 90%"
+    },
+    {
+      "from": "20260805_012733_6f7a11",
+      "to": "20260805_013420_99420f",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260805_012735_ef61b9",
+      "to": "20260805_013422_f48a60",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260805_012841_6949b6",
+      "to": "20260805_013055_5b512a",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260801_151249_8ecd8",
+      "to": "20260805_012841_6949b6",
+      "weight": 0.88,
+      "title": "Similarity: 88%"
+    },
+    {
+      "from": "20260805_010928_a618ce",
+      "to": "20260805_012909_5909f7",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260805_011007_7d1af9",
+      "to": "20260805_012909_5909f7",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260805_012459_a29019",
+      "to": "20260805_012909_5909f7",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260805_012733_6f7a11",
@@ -3725,40 +3892,64 @@
       "title": "Similarity: 98%"
     },
     {
+      "from": "20260805_010930_7ef5bf",
+      "to": "20260805_012913_e152fd",
+      "weight": 0.94,
+      "title": "Similarity: 94%"
+    },
+    {
+      "from": "20260805_011009_697b3a",
+      "to": "20260805_012913_e152fd",
+      "weight": 0.94,
+      "title": "Similarity: 94%"
+    },
+    {
+      "from": "20260805_011926_f2d2c4",
+      "to": "20260805_012913_e152fd",
+      "weight": 0.94,
+      "title": "Similarity: 94%"
+    },
+    {
       "from": "20260805_012735_ef61b9",
       "to": "20260805_012913_e152fd",
       "weight": 0.94,
       "title": "Similarity: 94%"
     },
     {
-      "from": "20260801_151249_8ecd8",
-      "to": "20260805_012841_6949b6",
-      "weight": 0.81,
-      "title": "Similarity: 81%"
+      "from": "20260805_012502_d96ec4",
+      "to": "20260805_012913_e152fd",
+      "weight": 0.93,
+      "title": "Similarity: 93%"
     },
     {
-      "from": "20260801_224254_cf13f",
-      "to": "20260805_012841_6949b6",
-      "weight": 0.81,
-      "title": "Similarity: 81%"
+      "from": "20260801_151249_8ecd8",
+      "to": "20260805_013055_5b512a",
+      "weight": 0.86,
+      "title": "Similarity: 86%"
+    },
+    {
+      "from": "20260805_011923_92d221",
+      "to": "20260805_013420_99420f",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260801_031242_5dbc1",
       "to": "20260801_104245_c5668",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_031242_5dbc1",
       "to": "20260802_014256_bded6",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 0.99,
+      "title": "Similarity: 99%"
     },
     {
       "from": "20260801_031242_5dbc1",
       "to": "20260801_181251_b3b6d",
-      "weight": 0.95,
-      "title": "Similarity: 95%"
+      "weight": 0.97,
+      "title": "Similarity: 97%"
     },
     {
       "from": "20260801_031242_5dbc1",
@@ -3786,57 +3977,57 @@
     },
     {
       "from": "20260801_035742_e755a",
-      "to": "20260805_010939_08d558",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.84,
+      "title": "Similarity: 84%"
+    },
+    {
+      "from": "20260801_035742_e755a",
+      "to": "20260805_012933_0a49b4",
+      "weight": 0.83,
+      "title": "Similarity: 83%"
     },
     {
       "from": "20260801_035742_e755a",
       "to": "20260805_010939_f84362",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
-    },
-    {
-      "from": "20260801_035742_e755a",
-      "to": "20260805_011019_20da3a",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
-    },
-    {
-      "from": "20260801_044242_19e24",
-      "to": "20260801_194252_2d214",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 0.81,
+      "title": "Similarity: 81%"
     },
     {
       "from": "20260801_044242_19e24",
       "to": "20260801_121248_f33a8",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "weight": 0.95,
+      "title": "Similarity: 95%"
+    },
+    {
+      "from": "20260801_044242_19e24",
+      "to": "20260801_194252_2d214",
+      "weight": 0.95,
+      "title": "Similarity: 95%"
     },
     {
       "from": "20260801_044242_19e24",
       "to": "20260801_151249_8ecd8",
-      "weight": 0.81,
-      "title": "Similarity: 81%"
+      "weight": 0.82,
+      "title": "Similarity: 82%"
     },
     {
       "from": "20260801_044242_19e24",
       "to": "20260801_224254_cf13f",
-      "weight": 0.81,
-      "title": "Similarity: 81%"
+      "weight": 0.82,
+      "title": "Similarity: 82%"
     },
     {
       "from": "20260801_044242_19e24",
       "to": "20260801_074243_ba30e",
-      "weight": 0.79,
-      "title": "Similarity: 79%"
+      "weight": 0.81,
+      "title": "Similarity: 81%"
     },
     {
       "from": "20260801_051242_d77d6",
       "to": "20260801_124248_355db",
-      "weight": 0.99,
-      "title": "Similarity: 99%"
+      "weight": 0.95,
+      "title": "Similarity: 95%"
     },
     {
       "from": "20260801_051242_d77d6",
@@ -3846,13 +4037,13 @@
     },
     {
       "from": "20260801_051242_d77d6",
-      "to": "20260805_011923_92d221",
+      "to": "20260801_121248_f33a8",
       "weight": 0.69,
       "title": "Similarity: 69%"
     },
     {
       "from": "20260801_051242_d77d6",
-      "to": "20260801_121248_f33a8",
+      "to": "20260801_171251_4e415",
       "weight": 0.69,
       "title": "Similarity: 69%"
     },
@@ -3864,63 +4055,69 @@
     },
     {
       "from": "20260801_052743_e477c",
-      "to": "20260801_202753_4e623",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
-    },
-    {
-      "from": "20260801_052743_e477c",
       "to": "20260801_125748_a7a5f",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
-    },
-    {
-      "from": "20260801_052743_e477c",
-      "to": "20260805_010939_08d558",
-      "weight": 0.74,
-      "title": "Similarity: 74%"
-    },
-    {
-      "from": "20260801_052743_e477c",
-      "to": "20260805_011019_20da3a",
-      "weight": 0.74,
-      "title": "Similarity: 74%"
-    },
-    {
-      "from": "20260801_052743_e477c",
-      "to": "20260805_011936_f98253",
-      "weight": 0.74,
-      "title": "Similarity: 74%"
-    },
-    {
-      "from": "20260801_072743_bc87f",
-      "to": "20260801_145749_99c32",
       "weight": 0.99,
       "title": "Similarity: 99%"
     },
     {
+      "from": "20260801_052743_e477c",
+      "to": "20260801_202753_4e623",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260801_052743_e477c",
+      "to": "20260801_185752_569f8",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_052743_e477c",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_052743_e477c",
+      "to": "20260801_112748_66ebd",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
+    },
+    {
+      "from": "20260801_072743_bc87f",
+      "to": "20260801_145749_99c32",
+      "weight": 0.97,
+      "title": "Similarity: 97%"
+    },
+    {
       "from": "20260801_072743_bc87f",
       "to": "20260801_222754_f33db",
-      "weight": 0.92,
-      "title": "Similarity: 92%"
+      "weight": 0.95,
+      "title": "Similarity: 95%"
     },
     {
       "from": "20260801_072743_bc87f",
       "to": "20260805_012933_0a49b4",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "weight": 0.77,
+      "title": "Similarity: 77%"
+    },
+    {
+      "from": "20260801_072743_bc87f",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.77,
+      "title": "Similarity: 77%"
     },
     {
       "from": "20260801_072743_bc87f",
       "to": "20260805_010939_08d558",
-      "weight": 0.75,
-      "title": "Similarity: 75%"
+      "weight": 0.76,
+      "title": "Similarity: 76%"
     },
     {
-      "from": "20260801_072743_bc87f",
-      "to": "20260805_010939_f84362",
-      "weight": 0.75,
-      "title": "Similarity: 75%"
+      "from": "20260801_074243_ba30e",
+      "to": "20260801_224254_cf13f",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260801_074243_ba30e",
@@ -3930,49 +4127,49 @@
     },
     {
       "from": "20260801_074243_ba30e",
-      "to": "20260801_224254_cf13f",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "to": "20260805_012555_51ee38",
+      "weight": 0.87,
+      "title": "Similarity: 87%"
     },
     {
       "from": "20260801_074243_ba30e",
-      "to": "20260805_010939_08d558",
+      "to": "20260805_011036_448561",
       "weight": 0.86,
       "title": "Similarity: 86%"
     },
     {
       "from": "20260801_074243_ba30e",
-      "to": "20260805_010939_f84362",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
+      "to": "20260805_012021_c77604",
+      "weight": 0.86,
+      "title": "Similarity: 86%"
     },
     {
       "from": "20260801_094244_c2bd6",
       "to": "20260801_171251_4e415",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "weight": 0.93,
+      "title": "Similarity: 93%"
     },
     {
       "from": "20260801_094244_c2bd6",
       "to": "20260802_004255_497fe",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "weight": 0.93,
+      "title": "Similarity: 93%"
     },
     {
       "from": "20260801_094244_c2bd6",
-      "to": "20260805_010939_f84362",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
+      "to": "20260805_012933_0a49b4",
+      "weight": 0.86,
+      "title": "Similarity: 86%"
     },
     {
       "from": "20260801_094244_c2bd6",
-      "to": "20260805_011019_ccd20f",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.86,
+      "title": "Similarity: 86%"
     },
     {
       "from": "20260801_094244_c2bd6",
-      "to": "20260805_011936_1933b5",
+      "to": "20260805_010939_08d558",
       "weight": 0.85,
       "title": "Similarity: 85%"
     },
@@ -3990,19 +4187,19 @@
     },
     {
       "from": "20260801_095744_d9f04",
-      "to": "20260805_012555_51ee38",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
-    },
-    {
-      "from": "20260801_035742_e755a",
-      "to": "20260801_095744_d9f04",
+      "to": "20260805_012933_0a49b4",
       "weight": 0.78,
       "title": "Similarity: 78%"
     },
     {
       "from": "20260801_095744_d9f04",
-      "to": "20260801_112748_66ebd",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.78,
+      "title": "Similarity: 78%"
+    },
+    {
+      "from": "20260801_095744_d9f04",
+      "to": "20260805_013432_fa5c59",
       "weight": 0.78,
       "title": "Similarity: 78%"
     },
@@ -4015,8 +4212,8 @@
     {
       "from": "20260801_104245_c5668",
       "to": "20260801_181251_b3b6d",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "weight": 0.97,
+      "title": "Similarity: 97%"
     },
     {
       "from": "20260801_104245_c5668",
@@ -4026,9 +4223,9 @@
     },
     {
       "from": "20260801_104245_c5668",
-      "to": "20260801_224254_cf13f",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "to": "20260805_012555_51ee38",
+      "weight": 0.75,
+      "title": "Similarity: 75%"
     },
     {
       "from": "20260801_112748_66ebd",
@@ -4038,21 +4235,21 @@
     },
     {
       "from": "20260801_112748_66ebd",
-      "to": "20260805_010939_08d558",
-      "weight": 0.86,
-      "title": "Similarity: 86%"
+      "to": "20260805_012933_0a49b4",
+      "weight": 0.84,
+      "title": "Similarity: 84%"
+    },
+    {
+      "from": "20260801_112748_66ebd",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.84,
+      "title": "Similarity: 84%"
     },
     {
       "from": "20260801_112748_66ebd",
       "to": "20260805_010939_f84362",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
-    },
-    {
-      "from": "20260801_112748_66ebd",
-      "to": "20260805_011019_20da3a",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
+      "weight": 0.82,
+      "title": "Similarity: 82%"
     },
     {
       "from": "20260801_121248_f33a8",
@@ -4069,104 +4266,92 @@
     {
       "from": "20260801_121248_f33a8",
       "to": "20260801_224254_cf13f",
-      "weight": 0.77,
-      "title": "Similarity: 77%"
+      "weight": 0.76,
+      "title": "Similarity: 76%"
     },
     {
       "from": "20260801_121248_f33a8",
-      "to": "20260801_161250_3abf2",
-      "weight": 0.74,
-      "title": "Similarity: 74%"
+      "to": "20260805_012555_51ee38",
+      "weight": 0.75,
+      "title": "Similarity: 75%"
     },
     {
       "from": "20260801_124248_355db",
       "to": "20260801_201253_61a45",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
-    },
-    {
-      "from": "20260801_121248_f33a8",
-      "to": "20260801_124248_355db",
-      "weight": 0.7,
-      "title": "Similarity: 70%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260801_124248_355db",
-      "to": "20260801_194252_2d214",
-      "weight": 0.7,
-      "title": "Similarity: 70%"
+      "to": "20260801_171251_4e415",
+      "weight": 0.78,
+      "title": "Similarity: 78%"
     },
     {
-      "from": "20260801_094244_c2bd6",
-      "to": "20260801_124248_355db",
-      "weight": 0.69,
-      "title": "Similarity: 69%"
+      "from": "20260801_124248_355db",
+      "to": "20260802_004255_497fe",
+      "weight": 0.78,
+      "title": "Similarity: 78%"
+    },
+    {
+      "from": "20260801_124248_355db",
+      "to": "20260805_012555_51ee38",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
     },
     {
       "from": "20260801_125748_a7a5f",
       "to": "20260801_202753_4e623",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
-    },
-    {
-      "from": "20260801_125748_a7a5f",
-      "to": "20260801_224254_cf13f",
-      "weight": 0.73,
-      "title": "Similarity: 73%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260801_104245_c5668",
       "to": "20260801_125748_a7a5f",
-      "weight": 0.72,
-      "title": "Similarity: 72%"
+      "weight": 0.73,
+      "title": "Similarity: 73%"
+    },
+    {
+      "from": "20260801_112748_66ebd",
+      "to": "20260801_125748_a7a5f",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
       "from": "20260801_125748_a7a5f",
-      "to": "20260801_151249_8ecd8",
-      "weight": 0.72,
-      "title": "Similarity: 72%"
+      "to": "20260801_145749_99c32",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
       "from": "20260801_145749_99c32",
       "to": "20260801_222754_f33db",
-      "weight": 0.93,
-      "title": "Similarity: 93%"
+      "weight": 0.96,
+      "title": "Similarity: 96%"
     },
     {
       "from": "20260801_145749_99c32",
-      "to": "20260805_012933_0a49b4",
+      "to": "20260805_010939_f84362",
       "weight": 0.77,
       "title": "Similarity: 77%"
     },
     {
       "from": "20260801_145749_99c32",
-      "to": "20260805_010939_08d558",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "to": "20260805_011019_ccd20f",
+      "weight": 0.77,
+      "title": "Similarity: 77%"
     },
     {
       "from": "20260801_145749_99c32",
-      "to": "20260805_011019_20da3a",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "to": "20260805_011936_1933b5",
+      "weight": 0.77,
+      "title": "Similarity: 77%"
     },
     {
       "from": "20260801_151249_8ecd8",
       "to": "20260801_224254_cf13f",
-      "weight": 1.0,
-      "title": "Similarity: 100%"
-    },
-    {
-      "from": "20260801_151249_8ecd8",
-      "to": "20260805_012933_0a49b4",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
-    },
-    {
-      "from": "20260801_151249_8ecd8",
-      "to": "20260805_010939_08d558",
-      "weight": 0.84,
-      "title": "Similarity: 84%"
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260801_171251_4e415",
@@ -4177,68 +4362,80 @@
     {
       "from": "20260801_171251_4e415",
       "to": "20260805_011019_ccd20f",
-      "weight": 0.87,
-      "title": "Similarity: 87%"
+      "weight": 0.85,
+      "title": "Similarity: 85%"
     },
     {
       "from": "20260801_171251_4e415",
       "to": "20260805_012750_85b8ce",
-      "weight": 0.87,
-      "title": "Similarity: 87%"
+      "weight": 0.85,
+      "title": "Similarity: 85%"
     },
     {
       "from": "20260801_171251_4e415",
-      "to": "20260805_010939_08d558",
-      "weight": 0.86,
-      "title": "Similarity: 86%"
+      "to": "20260805_010939_f84362",
+      "weight": 0.84,
+      "title": "Similarity: 84%"
     },
     {
       "from": "20260801_172751_40384",
       "to": "20260802_005755_b3ebd",
-      "weight": 0.93,
-      "title": "Similarity: 93%"
-    },
-    {
-      "from": "20260801_141249_3dfe9",
-      "to": "20260801_172751_40384",
-      "weight": 0.71,
-      "title": "Similarity: 71%"
+      "weight": 0.92,
+      "title": "Similarity: 92%"
     },
     {
       "from": "20260801_172751_40384",
-      "to": "20260801_214254_917df",
-      "weight": 0.71,
-      "title": "Similarity: 71%"
+      "to": "20260801_174251_9aa3a",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
     },
     {
-      "from": "20260801_064243_c2106",
+      "from": "20260801_172751_40384",
+      "to": "20260802_011256_87524",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
+    },
+    {
+      "from": "20260801_101244_bedfe",
       "to": "20260801_172751_40384",
-      "weight": 0.69,
-      "title": "Similarity: 69%"
+      "weight": 0.78,
+      "title": "Similarity: 78%"
     },
     {
       "from": "20260801_181251_b3b6d",
       "to": "20260802_014256_bded6",
-      "weight": 0.96,
-      "title": "Similarity: 96%"
+      "weight": 0.97,
+      "title": "Similarity: 97%"
+    },
+    {
+      "from": "20260801_161250_3abf2",
+      "to": "20260801_181251_b3b6d",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
+    },
+    {
+      "from": "20260801_181251_b3b6d",
+      "to": "20260801_211253_26d06",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
     },
     {
       "from": "20260801_185752_569f8",
-      "to": "20260805_010939_08d558",
-      "weight": 0.86,
-      "title": "Similarity: 86%"
+      "to": "20260805_012933_0a49b4",
+      "weight": 0.84,
+      "title": "Similarity: 84%"
+    },
+    {
+      "from": "20260801_185752_569f8",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.84,
+      "title": "Similarity: 84%"
     },
     {
       "from": "20260801_185752_569f8",
       "to": "20260805_010939_f84362",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
-    },
-    {
-      "from": "20260801_185752_569f8",
-      "to": "20260805_011019_20da3a",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
+      "weight": 0.82,
+      "title": "Similarity: 82%"
     },
     {
       "from": "20260801_151249_8ecd8",
@@ -4249,14 +4446,14 @@
     {
       "from": "20260801_194252_2d214",
       "to": "20260801_224254_cf13f",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
+      "weight": 0.76,
+      "title": "Similarity: 76%"
     },
     {
-      "from": "20260801_161250_3abf2",
-      "to": "20260801_194252_2d214",
-      "weight": 0.74,
-      "title": "Similarity: 74%"
+      "from": "20260801_194252_2d214",
+      "to": "20260805_012555_51ee38",
+      "weight": 0.75,
+      "title": "Similarity: 75%"
     },
     {
       "from": "20260801_171251_4e415",
@@ -4271,97 +4468,97 @@
       "title": "Similarity: 78%"
     },
     {
-      "from": "20260801_094244_c2bd6",
-      "to": "20260801_201253_61a45",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "from": "20260801_201253_61a45",
+      "to": "20260805_012555_51ee38",
+      "weight": 0.74,
+      "title": "Similarity: 74%"
     },
     {
-      "from": "20260801_185752_569f8",
+      "from": "20260801_104245_c5668",
       "to": "20260801_202753_4e623",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
-      "from": "20260801_202753_4e623",
-      "to": "20260805_010939_08d558",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "from": "20260801_112748_66ebd",
+      "to": "20260801_202753_4e623",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
-      "from": "20260801_202753_4e623",
-      "to": "20260805_011019_20da3a",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "from": "20260801_145749_99c32",
+      "to": "20260801_202753_4e623",
+      "weight": 0.73,
+      "title": "Similarity: 73%"
     },
     {
-      "from": "20260801_141249_3dfe9",
+      "from": "20260801_222754_f33db",
+      "to": "20260801_224254_cf13f",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
+    },
+    {
+      "from": "20260801_151249_8ecd8",
       "to": "20260801_222754_f33db",
-      "weight": 0.7,
-      "title": "Similarity: 70%"
-    },
-    {
-      "from": "20260801_214254_917df",
-      "to": "20260801_222754_f33db",
-      "weight": 0.7,
-      "title": "Similarity: 70%"
-    },
-    {
-      "from": "20260801_125748_a7a5f",
-      "to": "20260801_222754_f33db",
-      "weight": 0.7,
-      "title": "Similarity: 70%"
-    },
-    {
-      "from": "20260801_224254_cf13f",
-      "to": "20260805_012555_51ee38",
-      "weight": 0.89,
-      "title": "Similarity: 89%"
-    },
-    {
-      "from": "20260801_224254_cf13f",
-      "to": "20260805_010939_08d558",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
-    },
-    {
-      "from": "20260801_224254_cf13f",
-      "to": "20260805_011019_ccd20f",
-      "weight": 0.85,
-      "title": "Similarity: 85%"
-    },
-    {
-      "from": "20260802_004255_497fe",
-      "to": "20260805_011019_ccd20f",
-      "weight": 0.87,
-      "title": "Similarity: 87%"
-    },
-    {
-      "from": "20260802_004255_497fe",
-      "to": "20260805_012750_85b8ce",
-      "weight": 0.87,
-      "title": "Similarity: 87%"
-    },
-    {
-      "from": "20260802_004255_497fe",
-      "to": "20260805_010939_08d558",
-      "weight": 0.86,
-      "title": "Similarity: 86%"
-    },
-    {
-      "from": "20260802_005755_b3ebd",
-      "to": "20260805_012555_51ee38",
-      "weight": 0.78,
-      "title": "Similarity: 78%"
-    },
-    {
-      "from": "20260801_224254_cf13f",
-      "to": "20260802_005755_b3ebd",
       "weight": 0.78,
       "title": "Similarity: 78%"
     },
     {
       "from": "20260801_074243_ba30e",
+      "to": "20260801_222754_f33db",
+      "weight": 0.76,
+      "title": "Similarity: 76%"
+    },
+    {
+      "from": "20260801_224254_cf13f",
+      "to": "20260805_012555_51ee38",
+      "weight": 0.88,
+      "title": "Similarity: 88%"
+    },
+    {
+      "from": "20260801_224254_cf13f",
+      "to": "20260805_011036_448561",
+      "weight": 0.87,
+      "title": "Similarity: 87%"
+    },
+    {
+      "from": "20260801_224254_cf13f",
+      "to": "20260805_012021_c77604",
+      "weight": 0.87,
+      "title": "Similarity: 87%"
+    },
+    {
+      "from": "20260802_004255_497fe",
+      "to": "20260805_011019_ccd20f",
+      "weight": 0.85,
+      "title": "Similarity: 85%"
+    },
+    {
+      "from": "20260802_004255_497fe",
+      "to": "20260805_012750_85b8ce",
+      "weight": 0.85,
+      "title": "Similarity: 85%"
+    },
+    {
+      "from": "20260802_004255_497fe",
+      "to": "20260805_010939_f84362",
+      "weight": 0.84,
+      "title": "Similarity: 84%"
+    },
+    {
+      "from": "20260801_224254_cf13f",
+      "to": "20260802_005755_b3ebd",
+      "weight": 0.79,
+      "title": "Similarity: 79%"
+    },
+    {
+      "from": "20260801_074243_ba30e",
+      "to": "20260802_005755_b3ebd",
+      "weight": 0.77,
+      "title": "Similarity: 77%"
+    },
+    {
+      "from": "20260801_151249_8ecd8",
       "to": "20260802_005755_b3ebd",
       "weight": 0.77,
       "title": "Similarity: 77%"
@@ -4375,8 +4572,8 @@
     {
       "from": "20260801_224254_cf13f",
       "to": "20260802_014256_bded6",
-      "weight": 0.76,
-      "title": "Similarity: 76%"
+      "weight": 0.75,
+      "title": "Similarity: 75%"
     },
     {
       "from": "20260805_010928_473eb4",
@@ -4393,20 +4590,20 @@
     {
       "from": "20260805_010928_473eb4",
       "to": "20260805_012459_f927ab",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_010928_473eb4",
       "to": "20260805_012733_bd0175",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_010928_473eb4",
-      "to": "20260805_012909_291e37",
-      "weight": 0.89,
-      "title": "Similarity: 89%"
+      "to": "20260805_013420_7497c7",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_010939_08d558",
@@ -4422,6 +4619,12 @@
     },
     {
       "from": "20260805_010939_08d558",
+      "to": "20260805_013432_fa5c59",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
+    },
+    {
+      "from": "20260805_010939_08d558",
       "to": "20260805_012514_948e59",
       "weight": 0.99,
       "title": "Similarity: 99%"
@@ -4429,12 +4632,6 @@
     {
       "from": "20260805_010939_08d558",
       "to": "20260805_012750_c26ca9",
-      "weight": 0.99,
-      "title": "Similarity: 99%"
-    },
-    {
-      "from": "20260805_010939_08d558",
-      "to": "20260805_012933_0a6efc",
       "weight": 0.98,
       "title": "Similarity: 98%"
     },
@@ -4464,9 +4661,9 @@
     },
     {
       "from": "20260805_010939_f84362",
-      "to": "20260805_012933_0a49b4",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "to": "20260805_013432_51eb35",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011007_2ebf73",
@@ -4477,24 +4674,30 @@
     {
       "from": "20260805_011007_2ebf73",
       "to": "20260805_012459_f927ab",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011007_2ebf73",
       "to": "20260805_012733_bd0175",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011007_2ebf73",
-      "to": "20260805_012909_291e37",
-      "weight": 0.89,
-      "title": "Similarity: 89%"
+      "to": "20260805_013420_7497c7",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011019_20da3a",
       "to": "20260805_011936_f98253",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
+    },
+    {
+      "from": "20260805_011019_20da3a",
+      "to": "20260805_013432_fa5c59",
       "weight": 1.0,
       "title": "Similarity: 100%"
     },
@@ -4509,12 +4712,6 @@
       "to": "20260805_012750_c26ca9",
       "weight": 0.99,
       "title": "Similarity: 99%"
-    },
-    {
-      "from": "20260805_011019_20da3a",
-      "to": "20260805_012933_0a6efc",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
     },
     {
       "from": "20260805_011019_ccd20f",
@@ -4535,28 +4732,28 @@
       "title": "Similarity: 100%"
     },
     {
-      "from": "20260805_010939_08d558",
-      "to": "20260805_011019_ccd20f",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "from": "20260805_011019_ccd20f",
+      "to": "20260805_013432_51eb35",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011923_685c48",
       "to": "20260805_012459_f927ab",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011923_685c48",
       "to": "20260805_012733_bd0175",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011923_685c48",
-      "to": "20260805_012909_291e37",
-      "weight": 0.89,
-      "title": "Similarity: 89%"
+      "to": "20260805_013420_7497c7",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011936_1933b5",
@@ -4572,9 +4769,15 @@
     },
     {
       "from": "20260805_011936_1933b5",
-      "to": "20260805_012933_0a49b4",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "to": "20260805_013432_51eb35",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
+    },
+    {
+      "from": "20260805_011936_f98253",
+      "to": "20260805_013432_fa5c59",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_011936_f98253",
@@ -4589,12 +4792,6 @@
       "title": "Similarity: 99%"
     },
     {
-      "from": "20260805_011936_f98253",
-      "to": "20260805_012933_0a6efc",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
-    },
-    {
       "from": "20260805_012459_f927ab",
       "to": "20260805_012733_bd0175",
       "weight": 1.0,
@@ -4602,9 +4799,9 @@
     },
     {
       "from": "20260805_012459_f927ab",
-      "to": "20260805_012909_291e37",
-      "weight": 0.9,
-      "title": "Similarity: 90%"
+      "to": "20260805_013420_7497c7",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_012514_551dc0",
@@ -4614,9 +4811,9 @@
     },
     {
       "from": "20260805_012514_551dc0",
-      "to": "20260805_012933_0a49b4",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "to": "20260805_013432_51eb35",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
     },
     {
       "from": "20260805_012514_948e59",
@@ -4626,27 +4823,81 @@
     },
     {
       "from": "20260805_012514_948e59",
-      "to": "20260805_012933_0a6efc",
-      "weight": 0.98,
-      "title": "Similarity: 98%"
+      "to": "20260805_013432_fa5c59",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260805_012733_bd0175",
+      "to": "20260805_013420_7497c7",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
+    },
+    {
+      "from": "20260805_012750_85b8ce",
+      "to": "20260805_013432_51eb35",
+      "weight": 1.0,
+      "title": "Similarity: 100%"
+    },
+    {
+      "from": "20260805_012750_c26ca9",
+      "to": "20260805_013432_fa5c59",
+      "weight": 0.99,
+      "title": "Similarity: 99%"
+    },
+    {
+      "from": "20260805_010928_473eb4",
+      "to": "20260805_012909_291e37",
+      "weight": 0.89,
+      "title": "Similarity: 89%"
+    },
+    {
+      "from": "20260805_011007_2ebf73",
+      "to": "20260805_012909_291e37",
+      "weight": 0.89,
+      "title": "Similarity: 89%"
+    },
+    {
+      "from": "20260805_011923_685c48",
+      "to": "20260805_012909_291e37",
+      "weight": 0.89,
+      "title": "Similarity: 89%"
+    },
+    {
+      "from": "20260805_012459_f927ab",
+      "to": "20260805_012909_291e37",
+      "weight": 0.89,
+      "title": "Similarity: 89%"
     },
     {
       "from": "20260805_012733_bd0175",
       "to": "20260805_012909_291e37",
-      "weight": 0.9,
-      "title": "Similarity: 90%"
+      "weight": 0.89,
+      "title": "Similarity: 89%"
     },
     {
-      "from": "20260805_010939_08d558",
-      "to": "20260805_012750_85b8ce",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "from": "20260805_010939_f84362",
+      "to": "20260805_012933_0a49b4",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
-      "from": "20260805_012750_c26ca9",
-      "to": "20260805_012933_0a6efc",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "from": "20260805_011936_1933b5",
+      "to": "20260805_012933_0a49b4",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260805_012514_551dc0",
+      "to": "20260805_012933_0a49b4",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260805_012933_0a49b4",
+      "to": "20260805_013432_51eb35",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     },
     {
       "from": "20260805_011019_ccd20f",
@@ -4655,10 +4906,34 @@
       "title": "Similarity: 97%"
     },
     {
-      "from": "20260805_012750_85b8ce",
-      "to": "20260805_012933_0a49b4",
-      "weight": 0.97,
-      "title": "Similarity: 97%"
+      "from": "20260805_011019_20da3a",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260805_011936_f98253",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260805_012514_948e59",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260805_012750_c26ca9",
+      "to": "20260805_012933_0a6efc",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
+    },
+    {
+      "from": "20260805_012933_0a6efc",
+      "to": "20260805_013432_fa5c59",
+      "weight": 0.98,
+      "title": "Similarity: 98%"
     }
   ]
 }

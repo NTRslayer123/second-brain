@@ -776,9 +776,13 @@ def render_interactive_graph_3d(graph_data: dict, output_path: Path = GRAPH_3D_H
           }}
           return false;
         }})
-        .linkColor(() => 'rgba(16, 185, 129, 0.35)')
-        .linkWidth(link => Math.max(1, (link.weight || 0.6) * 2.5))
-        .linkOpacity(0.4)
+        .linkColor(link => {{
+          const w = link.weight || 0.6;
+          const alpha = Math.max(0.2, Math.min(0.9, (w - 0.4) / 0.6));
+          return `rgba(16, 185, 129, ${{alpha.toFixed(2)}})`;
+        }})
+        .linkWidth(link => Math.max(1, (link.weight || 0.6) * 3.0))
+        .linkOpacity(0.5)
         .linkDirectionalParticles(2)
         .linkDirectionalParticleWidth(1.5)
         .linkDirectionalParticleSpeed(0.005)
@@ -792,12 +796,14 @@ def render_interactive_graph_3d(graph_data: dict, output_path: Path = GRAPH_3D_H
           );
         }});
 
-      // Configure 3D force physics to spread nodes apart and prevent overlapping
+      // Configure 3D force physics to cluster connected nodes together
       if (Graph.d3Force('charge')) {{
-        Graph.d3Force('charge').strength(-220);
+        Graph.d3Force('charge').strength(-60);
       }}
       if (Graph.d3Force('link')) {{
-        Graph.d3Force('link').distance(link => 85 + (1 - (link.weight || 0.5)) * 90);
+        Graph.d3Force('link')
+          .distance(link => Math.max(30, (1 - (link.weight || 0.6)) * 85))
+          .strength(link => Math.min(1.0, (link.weight || 0.5) * 1.5));
       }}
       if (typeof d3 !== 'undefined' && d3.forceCollide) {{
         Graph.d3Force('collide', d3.forceCollide(node => Math.max(16, (node.value || 10) / 2)));
