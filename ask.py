@@ -57,8 +57,15 @@ FALLBACK_MODEL = "llama-3.3-70b-versatile"
 
 
 def get_groq_client():
-    """Initializes and returns Groq client using GROQ_API_KEY from environment."""
+    """Initializes and returns Groq client using GROQ_API_KEY from environment or st.secrets."""
     api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        try:
+            import streamlit as st  # type: ignore
+            api_key = st.secrets.get("GROQ_API_KEY")
+        except Exception:
+            pass
+
     if not api_key:
         return None
     if groq is None:

@@ -229,8 +229,16 @@ def get_vault_metrics() -> dict:
 # ==========================================
 with st.sidebar:
     st.markdown("## 🧠 SecondSelf")
-    st.markdown("<span class='matrix-badge'>Phase 6 • Milestone: The Oracle</span>", unsafe_allow_html=True)
+    st.markdown("<span class='matrix-badge'>Phase 8 • Cloud Ready</span>", unsafe_allow_html=True)
     st.caption("Autonomous Knowledge Matrix Engine")
+
+    # Cloud API Key & Deployment Status Badge
+    api_key_active = bool(os.getenv("GROQ_API_KEY") or (hasattr(st, "secrets") and "GROQ_API_KEY" in st.secrets))
+    if api_key_active:
+        st.markdown("<span class='matrix-badge' style='background:rgba(16,185,129,0.15);color:#10B981;'>☁️ Groq API Active</span>", unsafe_allow_html=True)
+    else:
+        st.markdown("<span class='matrix-badge' style='background:rgba(245,158,11,0.15);color:#F59E0B;'>⚠️ Groq API Key Missing</span>", unsafe_allow_html=True)
+
     st.divider()
 
     st.markdown("### 📥 Ingestion Hub")

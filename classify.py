@@ -43,10 +43,17 @@ MODEL_NAME = "llama-3.1-8b-instant"
 
 
 def get_groq_client():
-    """Initializes and returns Groq client using GROQ_API_KEY from environment."""
+    """Initializes and returns Groq client using GROQ_API_KEY from environment or st.secrets."""
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
-        print("[Warning] GROQ_API_KEY is not set in environment or .env file.", file=sys.stderr)
+        try:
+            import streamlit as st  # type: ignore
+            api_key = st.secrets.get("GROQ_API_KEY")
+        except Exception:
+            pass
+
+    if not api_key:
+        print("[Warning] GROQ_API_KEY is not set in environment or st.secrets.", file=sys.stderr)
         return None
 
     if groq is None:
